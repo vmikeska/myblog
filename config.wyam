@@ -1,0 +1,11 @@
+#recipe Blog
+#theme CleanBlog
+
+#n Wyam.Sass
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "mikeska.tech";
+Settings[BlogKeys.Title] = "Mike's programming blog";
+Settings[BlogKeys.Description] = "Architecture, Angular, .NET, Commic strips and more";
+
+// Add any pipeline customizations here

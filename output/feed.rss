@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>Mike's programming blog</title>
+		<link>http://mikeska.tech/</link>
+		<description>Architecture, Angular, .NET, Commic strips and more</description>
+		<copyright>2018</copyright>
+		<pubDate>Sun, 30 Sep 2018 11:02:25 GMT</pubDate>
+		<lastBuildDate>Sun, 30 Sep 2018 11:02:25 GMT</lastBuildDate>
+		<item>
+			<title>Comic 1 Your method to override</title>
+			<link>http://mikeska.tech/posts/comic1-your-method-to-override</link>
+			<description>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;</description>
+			<guid>http://mikeska.tech/posts/comic1-your-method-to-override</guid>
+			<pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;
+&lt;p&gt;&lt;img src="/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Why you should never evaluate conditional statements inline</title>
+			<link>http://mikeska.tech/posts/never-evaluate-conditional-statements-inline</link>
+			<description>&lt;p&gt;The conditional statement, conditional expression, conditional construct or commonly known the IF - a fundamental feature of every programming language.&lt;/p&gt;</description>
+			<guid>http://mikeska.tech/posts/never-evaluate-conditional-statements-inline</guid>
+			<pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;The conditional statement, conditional expression, conditional construct or commonly known the IF - a fundamental feature of every programming language.&lt;/p&gt;
+&lt;p&gt;Its right usage doesn't bring benefits just only to you, but also to all the other people participating in the project. Even the programmers whose seniority cannot be put in doubts can author a line of code like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-typescript"&gt;if (this.carType === 'Truck' &amp;amp;&amp;amp; (this.state === this.acitveState || this.item === this.selectedItem)
+    &amp;amp;&amp;amp; _.find(this.itemList, {state: 'active'}) &amp;amp;&amp;amp; this.year &amp;gt; 2000)
+{
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;What is wrong with such a line of code? Well, basically everything. It's difficult to read, maintain, debug, refactor or generally make sense of it.&lt;/p&gt;
+&lt;p&gt;Consider following dummy code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-typescript"&gt;public execute1() {
+        //here would be typicaly placed a comment trying to describe what
+        //is going on in this crazy IF
+        if (this.carType === 'Truck' 
+            &amp;amp;&amp;amp; (this.state === this.acitveState || this.item === this.selectedItem)
+            &amp;amp;&amp;amp; _.find(this.itemList, {state: 'active'}) &amp;amp;&amp;amp; this.year &amp;gt; 2000) 
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+
+        //executing evaluations methods in the if statement is a very bad
+        //practice. it's practically undebuggable and if you use it again 
+        //in the IF body as a parameter, it might return another value
+        if (this.notificationRequired() &amp;amp;&amp;amp; this.matchNotificationRules() 
+            &amp;amp;&amp;amp; this.canNotify())
+        {
+            this.notifyGroup(this.canNotify());
+        }
+
+        //this line is maybe not so long and unclear, but doesn't provide 
+        //the actual information to the reader, why is the condition 
+        //passing or not
+        if (['VW', 'AUDI'].includes(this.brand)) {
+            this.notifyConcern();
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In an entry like this &lt;code&gt;year &amp;gt; 2000&lt;/code&gt; is obvious that to pass the evaluation, the &lt;code&gt;year&lt;/code&gt; must be higher than &lt;code&gt;2000&lt;/code&gt;. And this is exactly the only information provided by the entry.&lt;/p&gt;
+&lt;p&gt;The best way how to provide such a information is to encapsulate the evaluation logic into a named method or assign it into a property.&lt;/p&gt;
+&lt;p&gt;When a user sees something like &lt;code&gt;let isNotAnOldtimer = year &amp;gt; 2000;&lt;/code&gt;, he is aware that to pass the evaluation, the car must not be an oldtimer. That is significantly more beneficial to the consumer of the method than the plain &lt;code&gt;year &amp;gt; 2000&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So let's begin the refactoring by splitting the excessive conditional statements into several short logical parts and give them a name.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-typescript"&gt;public execute2() {
+        //each of these evaluations has one single named results
+        //it introduces some new lines to the code, but brings
+        //some more sense into it
+        let isTruck = this.carType === 'Truck';
+        let isActive = this.state === this.acitveState;
+        let isSelected = this.item === this.selectedItem;
+        let hasItem = !!this.carList.find(this.itemList, {state: 'active'});
+        let isNotAnOldtimer = this.year &amp;gt; 2000;
+
+        let canUpdateCar = isTruck &amp;amp;&amp;amp; (isActive || isSelected) &amp;amp;&amp;amp; hasItem &amp;amp;&amp;amp; isNotAnOldtimer;
+        if (canUpdateCar)
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+        
+        //evaluate methods outside the condional statement is a must.
+        //you should also consider properties (gets), if you use them in the
+        //method body. Their value might change during execution
+        let isRequired = this.notificationRequired(); 
+        let matchesRule = this.matchNotificationRules() 
+        let canNotify = this.canNotify();
+
+        let shouldNotifyGroup = isRequired &amp;amp;&amp;amp; matchesRule &amp;amp;&amp;amp; canNotify;
+        if (shouldNotifyGroup) {
+            this.notifyGroup();
+        }
+
+        //it's better to encapulate even such a single evaluations
+        //the statement might be clear to you, but doesn't have to be
+        //clear to the others
+        let belongsToConcern = ['VW', 'AUDI'].includes(this.brand);
+        if (belongsToConcern) {
+            this.notifyConcern();
+        }
+        
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now when it has been broken into the several lines, each of them representing one single block of logic, we can read in it like in a book.
+You can literally read what is going on in there and while debugging, comfortably step line by line and see the result of each block.&lt;/p&gt;
+&lt;p&gt;The new code we introduced during the refactoring might give you an excessive impression. And yes, you are most possibly right.
+But our refactoring is not over yet.
+One, two, maybe three lines we could keep, but when this threshold reached, the code should be encapsulated into a well-named method.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-typescript"&gt;public execute3() {
+        //after we put it all into a well name method, user can immediately 
+        //see why this condition has passed or not
+        let canUpdateCar = this.canUpdateCar();
+        if (canUpdateCar) 
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+
+        //while debugging, it really helps to find the bug quick
+        let shouldNotifyGroup = this.shouldNotifyGroup();
+        if (shouldNotifyGroup) {
+            this.notifyGroup();
+        }
+
+        //well, no more work to be done in this one-liner, it's short and clear
+        let belongsToConcern = ['VW', 'AUDI'].includes(this.brand);
+        if (belongsToConcern) {
+            this.notifyConcern();
+        }
+    }
+
+    private canUpdateCar() {
+        //inside of this encapsulation is then possible to find what exactly
+        //is wrong
+        let isTruck = this.carType === 'Truck';
+        let isActive = this.state === this.acitveState;
+        let isSelected = this.item === this.selectedItem;
+        
+        let item = !!this.carList.find(this.itemList, {state: 'active'});
+        let isNotAnOldtimer = this.year &amp;gt; 2000;
+
+        let canUpdateCar = isTruck &amp;amp;&amp;amp; (isActive || isSelected) &amp;amp;&amp;amp; hasItem &amp;amp;&amp;amp; isNotAnOldtimer;
+        return canUpdateCar;
+    }
+    
+    private shouldNotifyGroup() {
+        let isRequired = this.notificationRequired(); 
+        let matchesRule = this.matchNotificationRules();
+        let canNotify = this.canNotify();
+
+        let shouldNotifyGroup = isRequired &amp;amp;&amp;amp; matchesRule &amp;amp;&amp;amp; canNotify;
+    }
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;However, there can't be found anything wrong, I admit a was a bit wordy programmer in this example.
+But if you manage to stick to this rule for maybe 80-90% of your code, it brings some seniority into your outputs.&lt;/p&gt;
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It's necessary to realize that code you input is not made exclusively for you. You should turn your geeky infinite one-liners into something that makes sense to the future consumers of your code.&lt;/p&gt;
+&lt;p&gt;Let's go once more through and point out the major benefits.&lt;/p&gt;
+&lt;h3 id="better-sense-of-the-code"&gt;Better sense of the code&lt;/h3&gt;
+&lt;p&gt;The user should be able at first sight find out what's the logic flow in your methods. In order to achieve that, naming and encapsulating values inputting the conditional constructs is a must.&lt;/p&gt;
+&lt;h3 id="easier-debugging"&gt;Easier debugging&lt;/h3&gt;
+&lt;p&gt;It's always a bit tricky to deal with bugs, but well written conditional constructs help to find them. Bugs are not always being made just on the technical level, they occur on the level of business logic as well. Therefore when dealing with well named and formatted code, to fix your business logic is much easier.&lt;/p&gt;
+&lt;h3 id="self-documenting-code"&gt;Self-documenting code&lt;/h3&gt;
+&lt;p&gt;Encapsulation and right naming produce self-documented code. With such a code is much easier to drag other developers without a deep project knowledge into the project.&lt;/p&gt;
+&lt;h3 id="solid-fundament-for-future-refactorings"&gt;Solid fundament for future refactorings&lt;/h3&gt;
+&lt;p&gt;Well encapsulated and named code gets you rid of the hassle you might face when the time of refactoring comes. Before you begin to shift your code over the application, it's always better to start with an instant overview about the happening in there.&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>

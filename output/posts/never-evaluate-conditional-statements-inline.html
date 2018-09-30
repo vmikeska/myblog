@@ -1,0 +1,351 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+
+        <title>Mike&#x27;s programming blog - Why you should never evaluate conditional statements inline</title>
+        <meta name="description" content="Architecture, Angular, .NET, Commic strips and more" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+
+        <link type="application/rss+xml" rel="alternate" title="Mike&#x27;s programming blog" href="/feed.rss" />
+                <link type="application/atom+xml" rel="alternate" title="Mike&#x27;s programming blog" href="/feed.atom" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="/assets/css/highlight.css" rel="stylesheet">
+        <link href="/assets/css/clean-blog.css" rel="stylesheet" />
+        <link href="/assets/css/master.css" rel="stylesheet" />
+        <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link href="/assets/css/override.css" rel="stylesheet" />
+
+
+        <meta name="application-name" content="Mike&#x27;s programming blog" />
+        <meta name="msapplication-tooltip" content="Mike&#x27;s programming blog" />
+        <meta name="msapplication-starturl" content="/" />
+
+        <meta property="og:title" content="Mike&#x27;s programming blog - Why you should never evaluate conditional statements inline" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://mikeska.tech/posts/never-evaluate-conditional-statements-inline" />
+        <!-- TODO: More social graph meta tags -->
+
+        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>     
+        <script src="/assets/js/highlight.pack.js"></script>   
+        <script src="/assets/js/clean-blog.js"></script>
+        <script src="/assets/js/d3.v3.min.js"></script>
+        <script src="/assets/js/trianglify.min.js"></script>
+        <script src="/assets/js/Please-compressed.js"></script>
+        <script src="/assets/js/background-check.min.js"></script>
+
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bb09aa1f5f3201e"></script>
+                
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+                <script src="/assets/js/html5shiv.js"></script>
+                <script src="/assets/js/respond.min.js"></script>
+        <![endif]-->
+        
+        
+
+
+        </head>
+        <body>
+                
+                <!-- Navigation -->
+                <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+                        <div class="container-fluid">
+                                <!-- Brand and toggle get grouped for better mobile display -->
+                                <div class="navbar-header page-scroll">
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        </button>
+                                        <a class="navbar-brand" href="/">Mike&#x27;s programming blog</a>
+                                </div>
+                        
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="navbar-collapse">
+                                        <ul class="nav navbar-nav navbar-right">
+                                                        <li><a href="/posts">Archive</a></li>
+        <li><a href="/tags">Tags</a></li>
+        <li><a href="/about">About Me</a></li>
+ 
+                                        </ul>
+                                </div>
+                                <!-- /.navbar-collapse -->
+                        </div>
+                        <!-- /.container -->
+                </nav>
+                
+                <!-- Page Header -->
+                <header class="intro-header" id="intro-header">
+                        <div class="container">
+                                <div class="row">
+                                        <div class="col-md-12">
+
+    
+<div class="post-heading">
+    <h1>Why you should never evaluate conditional statements inline</h1>
+     
+</div>
+                                        </div>
+                                </div>
+                        </div>
+                </header>
+                
+                <!-- Main Content -->
+                <div class="container">
+                        <div class="row">
+                                <div id="content" class="col-md-12">
+                                        
+
+<div class="post-table">
+    <div class="l">
+        <div class="meta">        
+Published on 26 September 2018<br>        </div>
+            <div class="tags">
+                        <a role="button" href="/tags/refactoring" class="btn btn-default btn-xs">refactoring</a>
+                        <a role="button" href="/tags/software-architecture" class="btn btn-default btn-xs">software architecture</a>
+            </div>     
+    </div>
+    <div class="r">
+        <div class="addthis_inline_share_toolbox"></div>
+    </div>
+</div>
+
+
+
+<p>The conditional statement, conditional expression, conditional construct or commonly known the IF - a fundamental feature of every programming language.</p>
+<p>Its right usage doesn't bring benefits just only to you, but also to all the other people participating in the project. Even the programmers whose seniority cannot be put in doubts can author a line of code like this:</p>
+<pre><code class="language-typescript">if (this.carType === 'Truck' &amp;&amp; (this.state === this.acitveState || this.item === this.selectedItem)
+    &amp;&amp; _.find(this.itemList, {state: 'active'}) &amp;&amp; this.year &gt; 2000)
+{
+</code></pre>
+<p>What is wrong with such a line of code? Well, basically everything. It's difficult to read, maintain, debug, refactor or generally make sense of it.</p>
+<p>Consider following dummy code:</p>
+<pre><code class="language-typescript">public execute1() {
+        //here would be typicaly placed a comment trying to describe what
+        //is going on in this crazy IF
+        if (this.carType === 'Truck' 
+            &amp;&amp; (this.state === this.acitveState || this.item === this.selectedItem)
+            &amp;&amp; _.find(this.itemList, {state: 'active'}) &amp;&amp; this.year &gt; 2000) 
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+
+        //executing evaluations methods in the if statement is a very bad
+        //practice. it's practically undebuggable and if you use it again 
+        //in the IF body as a parameter, it might return another value
+        if (this.notificationRequired() &amp;&amp; this.matchNotificationRules() 
+            &amp;&amp; this.canNotify())
+        {
+            this.notifyGroup(this.canNotify());
+        }
+
+        //this line is maybe not so long and unclear, but doesn't provide 
+        //the actual information to the reader, why is the condition 
+        //passing or not
+        if (['VW', 'AUDI'].includes(this.brand)) {
+            this.notifyConcern();
+        }
+    }
+</code></pre>
+<p>In an entry like this <code>year &gt; 2000</code> is obvious that to pass the evaluation, the <code>year</code> must be higher than <code>2000</code>. And this is exactly the only information provided by the entry.</p>
+<p>The best way how to provide such a information is to encapsulate the evaluation logic into a named method or assign it into a property.</p>
+<p>When a user sees something like <code>let isNotAnOldtimer = year &gt; 2000;</code>, he is aware that to pass the evaluation, the car must not be an oldtimer. That is significantly more beneficial to the consumer of the method than the plain <code>year &gt; 2000</code>.</p>
+<p>So let's begin the refactoring by splitting the excessive conditional statements into several short logical parts and give them a name.</p>
+<pre><code class="language-typescript">public execute2() {
+        //each of these evaluations has one single named results
+        //it introduces some new lines to the code, but brings
+        //some more sense into it
+        let isTruck = this.carType === 'Truck';
+        let isActive = this.state === this.acitveState;
+        let isSelected = this.item === this.selectedItem;
+        let hasItem = !!this.carList.find(this.itemList, {state: 'active'});
+        let isNotAnOldtimer = this.year &gt; 2000;
+
+        let canUpdateCar = isTruck &amp;&amp; (isActive || isSelected) &amp;&amp; hasItem &amp;&amp; isNotAnOldtimer;
+        if (canUpdateCar)
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+        
+        //evaluate methods outside the condional statement is a must.
+        //you should also consider properties (gets), if you use them in the
+        //method body. Their value might change during execution
+        let isRequired = this.notificationRequired(); 
+        let matchesRule = this.matchNotificationRules() 
+        let canNotify = this.canNotify();
+
+        let shouldNotifyGroup = isRequired &amp;&amp; matchesRule &amp;&amp; canNotify;
+        if (shouldNotifyGroup) {
+            this.notifyGroup();
+        }
+
+        //it's better to encapulate even such a single evaluations
+        //the statement might be clear to you, but doesn't have to be
+        //clear to the others
+        let belongsToConcern = ['VW', 'AUDI'].includes(this.brand);
+        if (belongsToConcern) {
+            this.notifyConcern();
+        }
+        
+    }
+</code></pre>
+<p>Now when it has been broken into the several lines, each of them representing one single block of logic, we can read in it like in a book.
+You can literally read what is going on in there and while debugging, comfortably step line by line and see the result of each block.</p>
+<p>The new code we introduced during the refactoring might give you an excessive impression. And yes, you are most possibly right.
+But our refactoring is not over yet.
+One, two, maybe three lines we could keep, but when this threshold reached, the code should be encapsulated into a well-named method.</p>
+<pre><code class="language-typescript">public execute3() {
+        //after we put it all into a well name method, user can immediately 
+        //see why this condition has passed or not
+        let canUpdateCar = this.canUpdateCar();
+        if (canUpdateCar) 
+        {
+            this.updateCar();
+            this.saveCar();
+            this.broadCastUpdates();
+        }
+
+        //while debugging, it really helps to find the bug quick
+        let shouldNotifyGroup = this.shouldNotifyGroup();
+        if (shouldNotifyGroup) {
+            this.notifyGroup();
+        }
+
+        //well, no more work to be done in this one-liner, it's short and clear
+        let belongsToConcern = ['VW', 'AUDI'].includes(this.brand);
+        if (belongsToConcern) {
+            this.notifyConcern();
+        }
+    }
+
+    private canUpdateCar() {
+        //inside of this encapsulation is then possible to find what exactly
+        //is wrong
+        let isTruck = this.carType === 'Truck';
+        let isActive = this.state === this.acitveState;
+        let isSelected = this.item === this.selectedItem;
+        
+        let item = !!this.carList.find(this.itemList, {state: 'active'});
+        let isNotAnOldtimer = this.year &gt; 2000;
+
+        let canUpdateCar = isTruck &amp;&amp; (isActive || isSelected) &amp;&amp; hasItem &amp;&amp; isNotAnOldtimer;
+        return canUpdateCar;
+    }
+    
+    private shouldNotifyGroup() {
+        let isRequired = this.notificationRequired(); 
+        let matchesRule = this.matchNotificationRules();
+        let canNotify = this.canNotify();
+
+        let shouldNotifyGroup = isRequired &amp;&amp; matchesRule &amp;&amp; canNotify;
+    }
+
+</code></pre>
+<p>However, there can't be found anything wrong, I admit a was a bit wordy programmer in this example.
+But if you manage to stick to this rule for maybe 80-90% of your code, it brings some seniority into your outputs.</p>
+<h2 id="summary">Summary</h2>
+<p>It's necessary to realize that code you input is not made exclusively for you. You should turn your geeky infinite one-liners into something that makes sense to the future consumers of your code.</p>
+<p>Let's go once more through and point out the major benefits.</p>
+<h3 id="better-sense-of-the-code">Better sense of the code</h3>
+<p>The user should be able at first sight find out what's the logic flow in your methods. In order to achieve that, naming and encapsulating values inputting the conditional constructs is a must.</p>
+<h3 id="easier-debugging">Easier debugging</h3>
+<p>It's always a bit tricky to deal with bugs, but well written conditional constructs help to find them. Bugs are not always being made just on the technical level, they occur on the level of business logic as well. Therefore when dealing with well named and formatted code, to fix your business logic is much easier.</p>
+<h3 id="self-documenting-code">Self-documenting code</h3>
+<p>Encapsulation and right naming produce self-documented code. With such a code is much easier to drag other developers without a deep project knowledge into the project.</p>
+<h3 id="solid-fundament-for-future-refactorings">Solid fundament for future refactorings</h3>
+<p>Well encapsulated and named code gets you rid of the hassle you might face when the time of refactoring comes. Before you begin to shift your code over the application, it's always better to start with an instant overview about the happening in there.</p>
+
+
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mikeska-tech.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      
+                                </div>
+                        </div>
+                </div>
+                
+                <hr>
+                
+                <!-- Footer -->
+                <footer>
+                                              
+
+<div class="container">
+        <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="copyright text-muted">
+                        Copyright © 2018
+                        <br />
+                            <a href="/feed.rss"><i class="fa fa-rss"></i> RSS Feed</a>
+                        |
+                            <a href="/feed.atom"><i class="fa fa-rss"></i> Atom Feed</a>
+                        <br />
+                        <strong><a href="https://wyam.io">Generated by Wyam</a></strong>
+                    </p>
+                </div>
+        </div>
+</div>
+
+                </footer> 
+
+                
+                <script>hljs.initHighlightingOnLoad();</script>
+
+                        <script type="text/javascript">                
+                                // Header background                        
+                                var colors = Please.make_color({
+                                        colors_returned: 3,
+                                        saturation: .6
+                                });
+                                var t = new Trianglify({
+                                        x_gradient: colors,
+                                        y_gradient: ["#FFFFFF"]
+                                });
+                                var header = document.getElementById("intro-header");
+                                var pattern = t.generate(header.clientWidth, header.clientHeight);
+                                header.setAttribute('style', 'background-image: ' + pattern.dataUrl);                        
+                        </script>
+
+                <script>
+                        BackgroundCheck.init({
+                                targets: '.intro-header,.navbar',
+                                images: '.intro-header'
+                        });
+                </script>
+        </body>
+</html>
+

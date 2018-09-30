@@ -1,0 +1,14 @@
+@{
+    var Lead = Model.String(BlogKeys.Lead);
+    var Published = Model.Get<DateTime>(BlogKeys.Published);   
+    var Tags = Model.Get<string[]>(BlogKeys.Tags);
+}
+
+<div class="post-heading">
+    <h1>@Model.WithoutSettings.String(BlogKeys.Title)</h1>
+    @if(!string.IsNullOrWhiteSpace(Lead))
+    {
+        <h2 class="subheading">@Lead</h2>
+    }            
+     
+</div>

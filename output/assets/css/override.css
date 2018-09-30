@@ -1,0 +1,27 @@
+pre {
+    font-size: 14px !important;
+}
+
+.post-table {
+    display: table;
+    width: 100%;
+}
+
+.post-table .l {
+    display: table-cell;
+    width: 50%;
+}
+
+.post-table .r {
+    display: table-cell;
+    width: 50%;
+}
+
+.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+    padding: 0;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 35px !important;
+}
