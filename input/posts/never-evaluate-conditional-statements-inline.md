@@ -1,5 +1,6 @@
 Title: Why you should never evaluate conditional statements inline
 Published: 26/9/2018
+Image: title-if.jpg
 Tags: 
 - refactoring
 - software architecture

@@ -3,14 +3,15 @@
 	<channel>
 		<title>Mike's programming blog</title>
 		<link>http://mikeska.tech/</link>
-		<description>Architecture, Angular, .NET, Commic strips and more</description>
+		<description>Architecture, Angular, .NET, Comic strips and more</description>
 		<copyright>2018</copyright>
-		<pubDate>Sun, 30 Sep 2018 11:02:25 GMT</pubDate>
-		<lastBuildDate>Sun, 30 Sep 2018 11:02:25 GMT</lastBuildDate>
+		<pubDate>Sun, 30 Sep 2018 17:39:24 GMT</pubDate>
+		<lastBuildDate>Sun, 30 Sep 2018 17:39:24 GMT</lastBuildDate>
 		<item>
 			<title>Comic 1 Your method to override</title>
 			<link>http://mikeska.tech/posts/comic1-your-method-to-override</link>
 			<description>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;</description>
+			<enclosure url="http://mikeska.tech/title-comic1.png" length="0" type="image" />
 			<guid>http://mikeska.tech/posts/comic1-your-method-to-override</guid>
 			<pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?&lt;/p&gt;
@@ -21,6 +22,7 @@
 			<title>Why you should never evaluate conditional statements inline</title>
 			<link>http://mikeska.tech/posts/never-evaluate-conditional-statements-inline</link>
 			<description>&lt;p&gt;The conditional statement, conditional expression, conditional construct or commonly known the IF - a fundamental feature of every programming language.&lt;/p&gt;</description>
+			<enclosure url="http://mikeska.tech/title-if.jpg" length="0" type="image" />
 			<guid>http://mikeska.tech/posts/never-evaluate-conditional-statements-inline</guid>
 			<pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;The conditional statement, conditional expression, conditional construct or commonly known the IF - a fundamental feature of every programming language.&lt;/p&gt;

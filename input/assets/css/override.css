@@ -2,21 +2,6 @@ pre {
     font-size: 14px !important;
 }
 
-.post-table {
-    display: table;
-    width: 100%;
-}
-
-.post-table .l {
-    display: table-cell;
-    width: 50%;
-}
-
-.post-table .r {
-    display: table-cell;
-    width: 50%;
-}
-
 .intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
     padding: 0;
     padding-top: 50px;
@@ -24,4 +9,36 @@ pre {
 
 h1 {
     font-size: 35px !important;
+}
+
+.addthis_inline_share_toolbox {
+    text-align: right !important;
+}
+
+.exc-table {
+    display: table;
+    width: 100%;
+}
+
+.exc-table .l {
+    display: table-cell;
+    width: 150px;
+    vertical-align: top;
+}
+
+.exc-table .r {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.exc-table .r p {
+    display: table-cell;
+    vertical-align: top;
+    padding: 0;
+    padding-left: 1em;
+}
+
+.title-img {
+    width: 150px;
+    float: left;
 }

@@ -1,5 +1,6 @@
 Title: Comic 1 Your method to override
 Published: 30/9/2018
+Image: title-comic1.png
 Tags: 
 - programming comic strip
 ---

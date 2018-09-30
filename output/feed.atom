@@ -4,10 +4,11 @@
 	<id>http://mikeska.tech/</id>
 	<title>Mike's programming blog</title>
 	<rights>2018</rights>
-	<updated>2018-09-30T11:02:25Z</updated>
-	<subtitle>Architecture, Angular, .NET, Commic strips and more</subtitle>
+	<updated>2018-09-30T17:39:24Z</updated>
+	<subtitle>Architecture, Angular, .NET, Comic strips and more</subtitle>
 	<entry>
 		<link href="http://mikeska.tech/posts/comic1-your-method-to-override" />
+		<link rel="enclosure" type="image" href="http://mikeska.tech/title-comic1.png" />
 		<id>http://mikeska.tech/posts/comic1-your-method-to-override</id>
 		<title>Comic 1 Your method to override</title>
 		<updated>2018-09-30T00:00:00Z</updated>
@@ -18,6 +19,7 @@
 	</entry>
 	<entry>
 		<link href="http://mikeska.tech/posts/never-evaluate-conditional-statements-inline" />
+		<link rel="enclosure" type="image" href="http://mikeska.tech/title-if.jpg" />
 		<id>http://mikeska.tech/posts/never-evaluate-conditional-statements-inline</id>
 		<title>Why you should never evaluate conditional statements inline</title>
 		<updated>2018-09-26T00:00:00Z</updated>
