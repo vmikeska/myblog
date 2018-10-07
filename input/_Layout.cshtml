@@ -1,6 +1,24 @@
-@{
+@using Microsoft.Extensions.WebEncoders;
+@{ 
         string Title = Model.WithoutSettings.String(BlogKeys.Title);
-        string PageTitle = Context.String(BlogKeys.Title) + (string.IsNullOrWhiteSpace(Title) ? string.Empty : " - " + Title);
+
+        string SiteTitle = Context.String(BlogKeys.Title);
+        bool IsIndex = string.IsNullOrWhiteSpace(Title);
+
+        string PageTitle = IsIndex ? SiteTitle : Title;
+        string Image = Model.WithoutSettings.String(BlogKeys.Image);
+
+
+        string DescriptionWithTags = Model.String(BlogKeys.Excerpt);
+
+        <!-- bool HasExcrpt = !string.IsNullOrWhiteSpace(DescriptionWithTags); -->
+
+        string DescriptionExcerpt = 
+                (DescriptionWithTags + "")
+                .Replace("<p>", "")
+                .Replace("</p>", "");
+
+        string Description = IsIndex ? @Context.String(BlogKeys.Description) : DescriptionExcerpt;
 }
 
 <!DOCTYPE html>
@@ -20,7 +38,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
         <title>@PageTitle</title>
-        <meta name="description" content="@Context.String(BlogKeys.Description)" />
+        <meta name="description" content="@Description" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
 
         @if (Context.String(BlogKeys.RssPath) != null) {
@@ -47,10 +65,11 @@
         <meta name="msapplication-starturl" content="@Context.GetLink("/")" />
 
         <meta property="og:title" content="@PageTitle" />
-        @* <meta property="og:image" content="@Blog.Image" /> *@
+        <meta property="og:image" content="https://mikeska.tech/assets/images/titles/@Image">
         <meta property="og:type" content="website" />
         <meta property="og:url" content="@Context.GetLink(Model, true)" />
-        <!-- TODO: More social graph meta tags -->
+        <meta property="og:description" content="@Description" />
+        
 
         <script src="@Context.GetLink("/assets/js/jquery.min.js")"></script>
         <script src="@Context.GetLink("/assets/js/bootstrap.min.js")"></script>     
@@ -75,6 +94,7 @@
         </head>
         <body>
                 
+               
                 <!-- Navigation -->
                 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
                         <div class="container-fluid">

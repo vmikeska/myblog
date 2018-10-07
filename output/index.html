@@ -1,4 +1,5 @@
-﻿
+﻿        <!-- bool HasExcrpt = !string.IsNullOrWhiteSpace(DescriptionWithTags); -->
+
 <!DOCTYPE html>
 <html lang="en">
         <head>
@@ -15,12 +16,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
-        <title>Mike&#x27;s programming blog</title>
-        <meta name="description" content="Architecture, Angular, .NET, Comic strips and more" />
+        <title>Mike&#x27;s programming and architecture blog</title>
+        <meta name="description" content="Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
 
-        <link type="application/rss+xml" rel="alternate" title="Mike&#x27;s programming blog" href="/feed.rss" />
-                <link type="application/atom+xml" rel="alternate" title="Mike&#x27;s programming blog" href="/feed.atom" />
+        <link type="application/rss+xml" rel="alternate" title="Mike&#x27;s programming and architecture blog" href="/feed.rss" />
+                <link type="application/atom+xml" rel="alternate" title="Mike&#x27;s programming and architecture blog" href="/feed.atom" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
@@ -34,14 +35,16 @@
         <link href="/assets/css/override.css" rel="stylesheet" />
 
 
-        <meta name="application-name" content="Mike&#x27;s programming blog" />
-        <meta name="msapplication-tooltip" content="Mike&#x27;s programming blog" />
+        <meta name="application-name" content="Mike&#x27;s programming and architecture blog" />
+        <meta name="msapplication-tooltip" content="Mike&#x27;s programming and architecture blog" />
         <meta name="msapplication-starturl" content="/" />
 
-        <meta property="og:title" content="Mike&#x27;s programming blog" />
+        <meta property="og:title" content="Mike&#x27;s programming and architecture blog" />
+        <meta property="og:image" content="https://mikeska.tech/assets/images/titles/">
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://mikeska.tech/" />
-        <!-- TODO: More social graph meta tags -->
+        <meta property="og:url" content="https://mikeska.tech/" />
+        <meta property="og:description" content="Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more" />
+        
 
         <script src="/assets/js/jquery.min.js"></script>
         <script src="/assets/js/bootstrap.min.js"></script>     
@@ -67,6 +70,7 @@
         </head>
         <body>
                 
+               
                 <!-- Navigation -->
                 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
                         <div class="container-fluid">
@@ -78,7 +82,7 @@
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         </button>
-                                        <a class="navbar-brand" href="/">Mike&#x27;s programming blog</a>
+                                        <a class="navbar-brand" href="/">Mike&#x27;s programming and architecture blog</a>
                                 </div>
                         
                                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +90,6 @@
                                         <ul class="nav navbar-nav navbar-right">
                                                         <li><a href="/posts">Archive</a></li>
         <li><a href="/tags">Tags</a></li>
-        <li><a href="/about">About Me</a></li>
  
                                         </ul>
                                 </div>
@@ -102,7 +105,7 @@
                                         <div class="col-md-12">
 
     <div class="site-heading">
-        <h1>Architecture, Angular, .NET, Comic strips and more</h1>
+        <!-- <h1>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</h1> -->
     </div>
                                         </div>
                                 </div>
@@ -116,6 +119,23 @@
                                         
 <div class="row">
     <div class="col-sm-8 right-border">
+                <div class="post-preview">
+                    <a href="/posts/create-programming-blog-without-database-cms-static-site-generator">
+                        <h2 class="post-title">Create a programming blog without any database or CMS by a static site generator</h2>
+                    </a>
+                    <p class="post-meta">Posted on 05 October 2018</p>
+                    
+                    <div class="exc-table">
+                        <div class="l">
+                            <img class="title-img" src="assets/images/titles/title-if.jpg" />
+                        </div>
+                        <div class="r">
+<p>One of mine first posts and yes, I'm posting an article how to create a blog.</p>                        </div>
+                    </div>
+                    
+                                 
+                </div>       
+                    <hr /> 
                 <div class="post-preview">
                     <a href="/posts/comic1-your-method-to-override">
                         <h2 class="post-title">Comic 1 Your method to override</h2>
@@ -162,8 +182,15 @@
             <h5>Tags</h5>
             <div>
                     <a role="button" href="/tags/refactoring" class="btn btn-default btn-sm"> refactoring (1)</a>
-                    <a role="button" href="/tags/programming-comic-strip" class="btn btn-default btn-sm"> programming comic strip (1)</a>
+                    <a role="button" href="/tags/wyam" class="btn btn-default btn-sm"> wyam (1)</a>
+                    <a role="button" href="/tags/no-database" class="btn btn-default btn-sm"> no database (1)</a>
+                    <a role="button" href="/tags/free-hosting" class="btn btn-default btn-sm"> free hosting (1)</a>
                     <a role="button" href="/tags/software-architecture" class="btn btn-default btn-sm"> software architecture (1)</a>
+                    <a role="button" href="/tags/no-cms" class="btn btn-default btn-sm"> no cms (1)</a>
+                    <a role="button" href="/tags/static-site-generator" class="btn btn-default btn-sm"> static site generator (1)</a>
+                    <a role="button" href="/tags/markdown" class="btn btn-default btn-sm"> markdown (1)</a>
+                    <a role="button" href="/tags/programming-comic-strip" class="btn btn-default btn-sm"> programming comic strip (1)</a>
+                    <a role="button" href="/tags/github-pages" class="btn btn-default btn-sm"> github pages (1)</a>
             </div>
             <ul class="pager">
                 <li class="next">

@@ -16,8 +16,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
-        <title>Comic 1 Your method to override</title>
-        <meta name="description" content="Do you also wonder why requirements to some of the positions are sometimes so high when it&#x2019;s often just a junior job?" />
+        <title>Create a programming blog without any database or CMS by a static site generator</title>
+        <meta name="description" content="One of mine first posts and yes, I&#x27;m posting an article how to create a blog." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
 
         <link type="application/rss+xml" rel="alternate" title="Mike&#x27;s programming and architecture blog" href="/feed.rss" />
@@ -39,11 +39,11 @@
         <meta name="msapplication-tooltip" content="Mike&#x27;s programming and architecture blog" />
         <meta name="msapplication-starturl" content="/" />
 
-        <meta property="og:title" content="Comic 1 Your method to override" />
-        <meta property="og:image" content="https://mikeska.tech/assets/images/titles/title-comic1.png">
+        <meta property="og:title" content="Create a programming blog without any database or CMS by a static site generator" />
+        <meta property="og:image" content="https://mikeska.tech/assets/images/titles/title-if.jpg">
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://mikeska.tech/posts/comic1-your-method-to-override" />
-        <meta property="og:description" content="Do you also wonder why requirements to some of the positions are sometimes so high when it&#x2019;s often just a junior job?" />
+        <meta property="og:url" content="https://mikeska.tech/posts/create-programming-blog-without-database-cms-static-site-generator" />
+        <meta property="og:description" content="One of mine first posts and yes, I&#x27;m posting an article how to create a blog." />
         
 
         <script src="/assets/js/jquery.min.js"></script>
@@ -99,7 +99,7 @@
                 </nav>
                 
                 <!-- Page Header -->
-                <header class="intro-header" id="intro-header" style="background-image: url(&quot;title-comic1.png&quot;)">
+                <header class="intro-header" id="intro-header" style="background-image: url(&quot;title-if.jpg&quot;)">
                         <div class="container">
                                 <div class="row">
                                         <div class="col-md-12">
@@ -107,7 +107,7 @@
     
 
 <div class="post-heading">
-    <h1>Comic 1 Your method to override</h1>
+    <h1>Create a programming blog without any database or CMS by a static site generator</h1>
      
 </div>
                                         </div>
@@ -124,9 +124,15 @@
 
 
 <div class="meta">        
-Published on 30 September 2018<br></div>
+Published on 05 October 2018<br></div>
     <div class="tags">
-                <a role="button" href="/tags/programming-comic-strip" class="btn btn-default btn-xs">programming comic strip</a>
+                <a role="button" href="/tags/free-hosting" class="btn btn-default btn-xs">free hosting</a>
+                <a role="button" href="/tags/github-pages" class="btn btn-default btn-xs">github pages</a>
+                <a role="button" href="/tags/markdown" class="btn btn-default btn-xs">markdown</a>
+                <a role="button" href="/tags/no-cms" class="btn btn-default btn-xs">no cms</a>
+                <a role="button" href="/tags/no-database" class="btn btn-default btn-xs">no database</a>
+                <a role="button" href="/tags/static-site-generator" class="btn btn-default btn-xs">static site generator</a>
+                <a role="button" href="/tags/wyam" class="btn btn-default btn-xs">wyam</a>
     </div>     
 
 
@@ -136,8 +142,73 @@ Published on 30 September 2018<br></div>
 
 
 
-<p>Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?</p>
-<p><img src="/assets/images/strips/your-method-to-override-1.png" class="img-fluid" alt="picture not found" title="Strip your method to override" /></p>
+<p>One of mine first posts and yes, I'm posting an article how to create a blog.</p>
+<p>I have now some fresh knowlede and I would like to share with you. Because when I was searching for and article to help me get started fast, I was not very lucky.</p>
+<p>I was not searching an article how to write content, I was searching for an article how to setup my blog technically. Programming blog is more like about content and you should not lose time with a flashy design, the most successful programming bloggers do not have flashy pages as well. Actually their design usually didn't change for maybe last 10 years :)</p>
+<p>So this blog post aims the audience of developers seeking the informations how to create a blog technically.</p>
+<p>It stole most of my evenings in the last month, but now I know a solution which fulfills all these aspects better than I could ever dream of.</p>
+<p>Your blog should be hosted on a second level domain (like myblog.com), should have all the technical necessities, minimum setup, minimum maintenance and running costs as low as possible.</p>
+<p>This posts help you to make a setup like this:</p>
+<table class="table">
+<thead>
+<tr>
+<th>aspect</th>
+<th>solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>url</td>
+<td>Second level domain, HTTPS</td>
+</tr>
+<tr>
+<td>features</td>
+<td>Disqucse under every post, Addthis sharing and Full Markdown support</td>
+</tr>
+<tr>
+<td>setup and deployment</td>
+<td>Everything in one Sunday</td>
+</tr>
+<tr>
+<td>security</td>
+<td>Cannot be hacked, completly care-less</td>
+</tr>
+<tr>
+<td>maintenance</td>
+<td>None at all</td>
+</tr>
+<tr>
+<td>backups</td>
+<td>Without any effor</td>
+</tr>
+<tr>
+<td>hosting cost</td>
+<td>Completly for free</td>
+</tr>
+</tbody>
+</table>
+<p>I see some possible directions you could go to create a blog about programming. If you belive me I really found the best setup, skip next several chapters and go the the &quot;Static Site Generator&quot;. If you want to know a bit more about my journey, just keep reading the whole article.</p>
+<h2 id="popular-cms-like-wordpress-or-ghost">Popular CMS like Wordpress or GHost</h2>
+<p>That was actually where my jurney initialy begun. Use one of the popular CMS seemed like the right way to go to be able to start work on the content right away with configuration and development effort.</p>
+<p>But I was surprised a lot by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.</p>
+<p>At this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have Markdown support.</p>
+<p>Branded accouts were too expensive, but there can be found hosting providers on the market which offers deploying a custom instance for much acceptable price, around $180 a year.</p>
+<p>Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away, your blog is already finished on 95%.</p>
+<p>But unfortunatelly as I later found out, to finish this last 5% can result in terrible pain, especially if you are not a PHP guy :). But the biggest blocker out of all was the lack of a good Markdown editor with syntax highlighting feature.</p>
+<p>Well, I found a one after all, a very good one, but still not perfect. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
+On top of that, the development of this plug-in was discontinued.</p>
+<p>Also customizing templates and overall tweeking the application was resulting into the big time waste for even very elementar modifications.</p>
+<p>This was first time I realized that completly custom solution based on technologies much closer to my knowledge could be a better was. I was nearly there, but made a manager decision to drop the Wordpress completly.</p>
+<p>It's possibly a good platform if you want to blog about clothes or lipsticks, but for a blog about programming is it not.</p>
+<h2 id="owncustom-project">Own/Custom project</h2>
+<p>Well, it's a bit of work, but you are a software developer, you should be able to develop a blog of your own.</p>
+<p>You need a good in Javascript written Markdown editor, simple layer on a web server converting the Markdown into HTML and of couse a database. The very last step would be to give it a design.</p>
+<p>All this is quite easy possible from the developing point of view, but deployment is a bit more complicated situation.</p>
+<p>If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution, you could end up on $100 a year or maybe even a bit less. But the mayor pitfall here is the time you'll have to spend on the configuration and maintenance. You'll have to take care of all the security updates, sometimes it all gonna go offline because your provider make the server restart and your services are not going to come back up. Sometimes an update after couple of years cause incompatibility with your code and so on.</p>
+<p>More care-free solution would be to use cloud services. Its configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.</p>
+<p>But then I came across one technology...</p>
+<h2 id="static-site-generator">Static Site Generator</h2>
+<p>I still cannot</p>
 
 
 

@@ -1,4 +1,5 @@
 Title: Why you should never evaluate conditional statements inline
+Description: Refactor your conditional statements and improve the clarity of your code, write self-documenting code, improve your debugging ability
 Published: 26/9/2018
 Image: title-if.jpg
 Tags: 

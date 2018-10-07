@@ -4,8 +4,9 @@
 #n Wyam.Sass
 
 // Customize your settings and add new ones here
+Settings[Keys.LinksUseHttps] = true;
 Settings[Keys.Host] = "mikeska.tech";
-Settings[BlogKeys.Title] = "Mike's programming blog";
-Settings[BlogKeys.Description] = "Architecture, Angular, .NET, Comic strips and more";
+Settings[BlogKeys.Title] = "Mike's programming and architecture blog";
+Settings[BlogKeys.Description] = "Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more";
 
 // Add any pipeline customizations here
