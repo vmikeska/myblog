@@ -24,8 +24,7 @@ This blog post aims at programmers seeking the info how to create the blog techn
 ### What do you want
 Your blog should have a second level domain (like myblog.com), should have all the technical necessities, minimal setup, minimal maintenance and running costs as low as possible.
 
-This posts help you to make a setup like this:
-
+### This post helps you to make a setup like this
 
 | aspect | solution |
 |--|--|
@@ -79,6 +78,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDg0MzQ0OSwxNzY2MjM4NTgxLDEwOD
-g1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbLTEyODU1ODAwNzAsMTc2NjIzODU4MSwxMD
+g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
