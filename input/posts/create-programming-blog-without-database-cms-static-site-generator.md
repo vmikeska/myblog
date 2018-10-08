@@ -28,11 +28,10 @@ Your blog should have a second level domain (like myblog.com), all the technical
 
 | aspect | solution |
 |--|--|
-| url |
-- Second level domain, HTTPS|
-| features | Disqucse under every post, Addthis sharing and Full Markdown support|
+| url | Second level domain, HTTPS |
+| features | Comments with Disqus, Addthis sharing and Full Markdown support|
 | setup and deployment | Everything in one Sunday|
-|security | Cannot be hacked, completly care-less|
+| security | Cannot be hacked, completly care-less|
 | maintenance | None at all|
 | backups | Without any effor|
 | hosting cost | Completly for free|
@@ -80,6 +79,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDQxMTA3MSwxNzY2MjM4NTgxLDEwOD
+eyJoaXN0b3J5IjpbLTY1ODY3NDc0MSwxNzY2MjM4NTgxLDEwOD
 g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
