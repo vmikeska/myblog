@@ -83,13 +83,14 @@ More care-free solution would be to use cloud services. It's configuration-less 
 But then I came across one technology...
 
 ## Static Site Generator
-I couldn't belive I didn't know about this technology
+I couldn't belive I didn't know about this technology.
+I realized how much I'm trapped in the world of the enterprise software development a have no clue that there is an enitre field a
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzExNTg2NDYsMTMwMTkzMjQwMiwxNz
-Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMTM4NDg0NDU5MywxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
