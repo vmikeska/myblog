@@ -56,7 +56,7 @@ Seemed like that could be it, houndreds of blog templates available, thousands o
 As I already implied above, the last 10% of customization can result in a terrible pain. It multiplies if you are not a PHP guy :). 
 The biggest blocker out of all was the lack of good and working Markdown plugin. 
 
-Well, I found a one after all, a very good one, but still not perfect. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
+Well, I found a one after all, not perfect, but a very good one. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
 
 Also customizing templates and overall tweeking the application was resulting into the big time waste for even very elementar modifications.
@@ -86,6 +86,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4MjYzODIsMTMwMTkzMjQwMiwxNz
-Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbLTU2OTg0MDgyNiwxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
