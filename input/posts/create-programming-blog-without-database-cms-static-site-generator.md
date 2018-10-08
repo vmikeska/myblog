@@ -35,7 +35,7 @@ Your blog should have a second level domain (like myblog.com), all the technical
 | maintenance | None at all|
 | backups | Without any effor|
 | hosting cost | Completly for free|
-| **cost over all** | $4 or less a year for domain
+| **cost over all** | Just your domain, $4 or less
 
 
 
@@ -79,6 +79,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODY3NDc0MSwxNzY2MjM4NTgxLDEwOD
+eyJoaXN0b3J5IjpbLTI4OTM2MzY4MywxNzY2MjM4NTgxLDEwOD
 g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
