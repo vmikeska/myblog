@@ -59,9 +59,9 @@ The biggest blocker out of all was the lack of good and working Markdown plugin.
 Well, I found a one after all, not perfect, but a very good one. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
 
-Also customizing templates and overall tweeking the application was resulting into the big time waste for even very elementar modifications.
+Also customizing templates and overall tweeking the application was resulting into the big time waste with every little modification.
 
-This was first time I realized that completly custom solution based on technologies much closer to my knowledge could be a better was. I was nearly there, but made a manager decision to drop the Wordpress completly.
+At this point I realized that completly custom solution based on technologies much closer to my knowledge could be a better choice. I was nearly there, but made a manager decision to drop the Wordpress completly.
 
 It's possibly a good platform if you want to blog about clothes or lipsticks, but for a blog about programming is it not.
 
@@ -86,6 +86,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTg0MDgyNiwxMzAxOTMyNDAyLDE3Nj
-YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTIwODYxODQ2NzMsMTMwMTkzMjQwMiwxNz
+Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
