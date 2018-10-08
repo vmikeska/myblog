@@ -76,20 +76,20 @@ From the development point of view could be all this achived quite easy, but dep
 
 If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution.
 You could end up on $100 a year or maybe even a bit less. But the mayor pitfall is the time you'll spend on the configuration and maintenance. 
-You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services are might not  come back up. Sometimes an update after couple of years cause incompatibility with your code and so on.
+You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services are might not come back. Sometimes an update after couple of years cause incompatibility with your code and so on.
 
-More care-free solution would be to use cloud services. Its configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.
+More care-free solution would be to use cloud services. It's configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.
 
 But then I came across one technology...
 
 ## Static Site Generator
-I still cannot belive
+I was a bit coincidance 
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MjUxMzk2LDEzMDE5MzI0MDIsMTc2Nj
+eyJoaXN0b3J5IjpbNzM2ODQ2NTI1LDEzMDE5MzI0MDIsMTc2Nj
 IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
