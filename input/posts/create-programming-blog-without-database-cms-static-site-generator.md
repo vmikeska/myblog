@@ -53,7 +53,8 @@ Branded accouts are too expensive, but there can be found hosting providers on t
 
 Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away.
 
-As I already implied above can result in terrible pain, especially if you are not a PHP guy :). But the biggest blocker out of all was the lack of a good Markdown editor with syntax highlighting feature. 
+As I already implied above, the last 10% of customization can result in a terrible pain. It multiplies if you are not a PHP guy :). 
+The biggest blocker out of all was the lack of good and working Markdown plugin. 
 
 Well, I found a one after all, a very good one, but still not perfect. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
@@ -85,6 +86,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgxMjY4NjUsMTMwMTkzMjQwMiwxNz
+eyJoaXN0b3J5IjpbLTE2NTQ4MjYzODIsMTMwMTkzMjQwMiwxNz
 Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
