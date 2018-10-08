@@ -51,9 +51,9 @@ Altough at this point it was already clear that if to use any of the open source
 
 Branded accouts are too expensive, but there can be found hosting providers on the market which offers deploying a custom instance for much acceptable price, around $180 a year.
 
-Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away, your blog is already finished on 95%.
+Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away.
 
-But unfortunatelly as I later found out, to finish this last 5% can result in terrible pain, especially if you are not a PHP guy :). But the biggest blocker out of all was the lack of a good Markdown editor with syntax highlighting feature. 
+As I already implied above can result in terrible pain, especially if you are not a PHP guy :). But the biggest blocker out of all was the lack of a good Markdown editor with syntax highlighting feature. 
 
 Well, I found a one after all, a very good one, but still not perfect. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
@@ -85,6 +85,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjYxMDAyLDEzMDE5MzI0MDIsMTc2Nj
-IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjgxMjY4NjUsMTMwMTkzMjQwMiwxNz
+Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
