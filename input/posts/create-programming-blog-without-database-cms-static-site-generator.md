@@ -41,11 +41,11 @@ Your blog should have a second level domain (like myblog.com), all the technical
 I see some possible directions you could go to create a blog about programming. If you belive I found the best one, skip next several chapters and go the the **Static Site Generator**. If you want to know a bit more about my journey, just keep reading the whole article.
 
 ### Popular CMS like Wordpress or GHost
-This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks an
+This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
 
-But as I later found out,  
+But as I later found out,  these last 10% is not an easy piece.
 
-But I was surprised a lot by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
+On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
 At this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have Markdown support.
 
@@ -85,6 +85,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxNDEwMDEsMTMwMTkzMjQwMiwxNz
-Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMTAyOTQzNDc2NywxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
