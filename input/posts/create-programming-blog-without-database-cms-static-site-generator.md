@@ -39,7 +39,7 @@ Your blog should have a second level domain (like myblog.com), all the technical
 
 
 
-I see some possible directions you could go to create a blog about programming. If you belive me I really found the best setup, skip next several chapters and go the the "Static Site Generator". If you want to know a bit more about my journey, just keep reading the whole article.
+I see some possible directions you could go to create a blog about programming. If you belive I found the best solution, skip next several chapters and go the the "Static Site Generator". If you want to know a bit more about my journey, just keep reading the whole article.
 
 ## Popular CMS like Wordpress or GHost
 That was actually where my jurney initialy begun. Use one of the popular CMS seemed like the right way to go to be able to start work on the content right away with configuration and development effort. 
@@ -79,6 +79,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTM2MzY4MywxNzY2MjM4NTgxLDEwOD
+eyJoaXN0b3J5IjpbMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwOD
 g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
