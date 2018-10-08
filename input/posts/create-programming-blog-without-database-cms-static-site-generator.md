@@ -68,6 +68,8 @@ It's possibly a good platform if you want to blog about clothes or lipsticks, bu
 ## Own/Custom project
 Well, it's a bit of work, but you are a software developer, you should be able to develop a blog of your own. 
 
+
+
 You need a good in Javascript written Markdown editor, simple layer on a web server converting the Markdown into HTML and of couse a database. The very last step would be to give it a design.
 
 All this is quite easy possible from the developing point of view, but deployment is a bit more complicated situation.
@@ -86,6 +88,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYxODQ2NzMsMTMwMTkzMjQwMiwxNz
-Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMTg3MTE3MjYwMywxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
