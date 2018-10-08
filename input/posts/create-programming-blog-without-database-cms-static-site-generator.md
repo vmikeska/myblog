@@ -76,7 +76,7 @@ From the development point of view could be all this achived quite easy, but dep
 
 If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution.
 You could end up on $100 a year or maybe even a bit less. But the mayor pitfall is the time you'll spend on the configuration and maintenance. 
-You'll have to take care of all the security updates, sometimes it all gonna go offline because your provider make the server restart and your services are not going to come back up. Sometimes an update after couple of years cause incompatibility with your code and so on.
+You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services are might not  come back up. Sometimes an update after couple of years cause incompatibility with your code and so on.
 
 More care-free solution would be to use cloud services. Its configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.
 
@@ -90,6 +90,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODYxNjA3MiwxMzAxOTMyNDAyLDE3Nj
-YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbNzc3MjUxMzk2LDEzMDE5MzI0MDIsMTc2Nj
+IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
