@@ -13,7 +13,7 @@ Tags:
 ---
 
 ## Hey guys, just created a blog...
-I spent most of my evenings in the last month setting up this blog. I have some fresh knowlede I want to share with you. When I was searching for and article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress. Therefore one of mine first posts is going to be about creating programming bl 
+I spent most of my evenings in the last month setting up this blog. I have some fresh knowlede I want to share with you. When I was searching for and article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress. As the programming blog is a bit specific type of blog, I decided write one of mine first posts about creating programming blogs.  
 
 ## ...I'd like to share with you
 The article I was searching for shouldn't have helped me with the content. The article should have helped me with the the creation and technical setup.
@@ -81,6 +81,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyODg5NDQsMTc2NjIzODU4MSwxMD
-g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDgyMjI3NiwxNzY2MjM4NTgxLDEwOD
+g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
