@@ -18,7 +18,7 @@ I spent most of my evenings in the last month setting up this blog. I have some 
 ### ...I'd like to share with you how to setup a blog technically
 The desired article I was searching for shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
 The most important part of a blog is the content, so don't lose time on a flashy design.
-Design of the most successful blogs is usually unattractive and oldschool, their design usually didn't experience change in last decade :)
+Most s Design of the most successful blogs is usually unattractive and oldschool, their design usually didn't experience a change in last decade :)
 
 So this blog post aims the audience of developers seeking the informations how to create a blog technically.
 
@@ -81,6 +81,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDA1ODc3MCwxNzY2MjM4NTgxLDEwOD
-g1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbLTEyOTc1NTI3NjksMTc2NjIzODU4MSwxMD
+g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
