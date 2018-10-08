@@ -11,10 +11,11 @@ Tags:
 - free hosting
 - github pages
 ---
-I've just spent most of my evenings in the last month on setting up this blog. And I have some fresh knowlede  I would like to share with you. Because when I was searching for and article to help me get started fast, I was not very lucky.
+I've just spent most of my evenings in the last month on setting up this blog. And I have some fresh knowlede I'd like to share with you. Because when I was searching for and article to help me get started fast, I was not very lucky.
 
 One of mine first posts and yes, I'm posting an article how to create a blog. 
 
+The article I was searching for
 I was not searching an article how to write content, I was searching for an article how to setup my blog technically. Programming blog is more like about content and you should not lose time with a flashy design, the most successful programming bloggers do not have flashy pages as well. Actually their design usually didn't change for maybe last 10 years :)
 
 So this blog post aims the audience of developers seeking the informations how to create a blog technically.
@@ -78,5 +79,5 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NTkwNTcxLDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbODcwMzU4NDQzLDEyOTA5OTkxNjVdfQ==
 -->
