@@ -37,11 +37,10 @@ Your blog should have a second level domain (like myblog.com), all the technical
 | hosting cost | Completly for free|
 | **cost over all** | Just your domain, $4 or less
 
+## The options you have
+I see some possible directions you could go to create a blog about programming. If you belive I found the best one, skip next several chapters and go the the **Static Site Generator**. If you want to know a bit more about my journey, just keep reading the whole article.
 
-
-I see some possible directions you could go to create a blog about programming. If you belive I found the best solution, skip next several chapters and go the the "Static Site Generator". If you want to know a bit more about my journey, just keep reading the whole article.
-
-## Popular CMS like Wordpress or GHost
+### Popular CMS like Wordpress or GHost
 That was actually where my jurney initialy begun. Use one of the popular CMS seemed like the right way to go to be able to start work on the content right away with configuration and development effort. 
 
 But I was surprised a lot by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
@@ -79,6 +78,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwOD
-g1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbNTY5MDY2NDMwLDEzMDE5MzI0MDIsMTc2Nj
+IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
