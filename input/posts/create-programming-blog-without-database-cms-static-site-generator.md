@@ -20,7 +20,7 @@ The desired article I was searching for shouldn't have helped me with the conten
 The most important part of a blog is the content, so don't lose time on a flashy design.
 Most successful blogs usually doesn't have very attractive design. Their design usually didn't experience a change in the last decade :)
 
-So this blog post aims the audience of developers seeking the informations how to create a blog technically.
+So this blog post aims at programmers seeking the info how to create a blog technically.
 
 It stole most of my evenings in the last month, but now I know a solution which fulfills all these aspects better than I could ever dream of.
 
@@ -81,6 +81,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMTkyNDMzLDE3NjYyMzg1ODEsMTA4OD
-U5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTE1NTI4NTU2NTksMTc2NjIzODU4MSwxMD
+g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
