@@ -47,9 +47,9 @@ But as I later found out,  these last 10% is not an easy piece.
 
 On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
-At this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have Markdown support.
+Altough at this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have any promissing Markdown plugins, on the Wordpress I found at least one.
 
-Branded accouts were too expensive, but there can be found hosting providers on the market which offers deploying a custom instance for much acceptable price, around $180 a year.
+Branded accouts are too expensive, but there can be found hosting providers on the market which offers deploying a custom instance for much acceptable price, around $180 a year.
 
 Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away, your blog is already finished on 95%.
 
@@ -85,6 +85,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTQzNDc2NywxMzAxOTMyNDAyLDE3Nj
-YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTU3MjYxMDAyLDEzMDE5MzI0MDIsMTc2Nj
+IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
