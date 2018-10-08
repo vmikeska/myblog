@@ -15,8 +15,8 @@ Tags:
 ### Hey guys, just created a blog...
 I spent most of my evenings in the last month setting up this blog. I have some fresh knowlede I want to share with you. When I was searching for and article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress. As the programming blog is a bit specific type of blog, I decided write one of mine first posts about creating programming blogs.  
 
-### ...I'd like to share with you
-The article I was searching for shouldn't have helped me with the content. The article should have helped me with the the creation and technical setup.
+### ...I'd like to share with you how to setup a blog technically
+The desired article I was searching for shouldn't have helped me with the content. The article should have helped me with the the creation and technical setup.
 The most important part of a blog is the content, so don't lose time on a flashy design.
 Design of most of the most successful blogs is usually unattractive and oldschool, their design usually didn't change in last decade :)
 
@@ -81,6 +81,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDk5NjM2MCwxNzY2MjM4NTgxLDEwOD
+eyJoaXN0b3J5IjpbMTI1NjgxMTg4NywxNzY2MjM4NTgxLDEwOD
 g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
