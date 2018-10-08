@@ -68,11 +68,11 @@ It's possibly a good platform if you want to blog about clothes or lipsticks, bu
 ## Own/Custom project
 Well, it's a bit of work, but you are a software developer, you should be able to develop a blog of your own. 
 
-Spoiler: It's not the way, skip t
+Spoiler: It's not the way, skip to the next chapter, or keep reading if you want to review my steps.
 
-You need a good in Javascript written Markdown editor, simple layer on a web server converting the Markdown into HTML and of couse a database. The very last step would be to give it a design.
+You need a good in Markdown editor as a Javascript component, simple layer on a web server converting the Markdown into HTML and of couse a database for your content. The very last step would be to give it a design.
 
-All this is quite easy possible from the developing point of view, but deployment is a bit more complicated situation.
+All this is quite easy possible from the development point of view, but deployment is a bit more complicated situation.
 
 If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution, you could end up on $100 a year or maybe even a bit less. But the mayor pitfall here is the time you'll have to spend on the configuration and maintenance. You'll have to take care of all the security updates, sometimes it all gonna go offline because your provider make the server restart and your services are not going to come back up. Sometimes an update after couple of years cause incompatibility with your code and so on.
 
@@ -88,6 +88,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTg3MjYsMTMwMTkzMjQwMiwxNzY2Mj
-M4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbNjcyMTk1NDAyLDEzMDE5MzI0MDIsMTc2Nj
+IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
