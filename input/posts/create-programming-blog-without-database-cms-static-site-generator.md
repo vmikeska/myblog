@@ -38,6 +38,7 @@ This posts help you to make a setup like this:
 | hosting cost | Completly for free|
 
 
+
 I see some possible directions you could go to create a blog about programming. If you belive me I really found the best setup, skip next several chapters and go the the "Static Site Generator". If you want to know a bit more about my journey, just keep reading the whole article.
 
 ## Popular CMS like Wordpress or GHost
@@ -77,3 +78,6 @@ But then I came across one technology...
 
 ## Static Site Generator
 I still cannot 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI5MDk5OTE2NV19
+-->
