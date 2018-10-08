@@ -41,7 +41,7 @@ Your blog should have a second level domain (like myblog.com), all the technical
 I see some possible directions you could go to create a blog about programming. If you belive I found the best one, skip next several chapters and go the the **Static Site Generator**. If you want to know a bit more about my journey, just keep reading the whole article.
 
 ### Popular CMS like Wordpress or GHost
-That was actually where my jurney initialy begun. Use one of the popular CMS seemed like the right way to go to be able to start work on the content right away with configuration and development effort. 
+This is where my jurney initialy begun. Use one of the popular CMS seemed like the right way to go. You deploy fast and can  to be able to start work on the content right away with configuration and development effort. 
 
 But I was surprised a lot by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
@@ -83,6 +83,6 @@ I still cannot belive
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzczMzIyMCwxMzAxOTMyNDAyLDE3Nj
-YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbOTc4MTMwNzk4LDEzMDE5MzI0MDIsMTc2Nj
+IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
