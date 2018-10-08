@@ -17,8 +17,7 @@ One of mine first posts and yes, I'm posting an article how to create a blog.
 
 The article I was searching for shouldn't help me with my content. The article should have helped me with the the creation and setting technically. 
 The most important part of a blog is the content, so don't lose time on a flashy design.
-Blog design of most of the most successful blogers you 
-The most successful bloggers do not have flashy pages as well. Actually their design usually didn't change for maybe last 10 years :)
+Design of most of the most successful blogs is usually unattractive and oldschool, their design usually didn't change  didn't change for maybe last 10 years :)
 
 So this blog post aims the audience of developers seeking the informations how to create a blog technically.
 
@@ -81,5 +80,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTExOTMwNTAyNTQsMTA4ODU5MDY4NCwxMj
+kwOTk5MTY1XX0=
 -->
