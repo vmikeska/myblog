@@ -76,8 +76,13 @@ More care-free solution would be to use cloud services. Its configuration-less a
 But then I came across one technology...
 
 ## Static Site Generator
-I still cannot 
+I still cannot belive
+
+
+
+advantages
+you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MDY2NDMwLDEzMDE5MzI0MDIsMTc2Nj
-IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMjA2MzczMzIyMCwxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
