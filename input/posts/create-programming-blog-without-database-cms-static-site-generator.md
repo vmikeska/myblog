@@ -13,7 +13,7 @@ Tags:
 ---
 I've just spent most of my evenings in the last month on setting up this blog. And I have some fresh knowlede I'd like to share with you. Because when I was searching for and article to help me get started fast, I was not very lucky. One of mine first posts and yes, I'm posting an article how to create a blog. 
 
-The article I was searching for shouldn't help me with my content. The article should have helped me with the the creation and setting technically. 
+The article I was searching for shouldn't have helped me with the content. The article should have helped me with the the creation and technical setup.
 The most important part of a blog is the content, so don't lose time on a flashy design.
 Design of most of the most successful blogs is usually unattractive and oldschool, their design usually didn't change in last decade :)
 
@@ -78,6 +78,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjI3MjE5OSwxMDg4NTkwNjg0LDEyOT
+eyJoaXN0b3J5IjpbMTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOT
 A5OTkxNjVdfQ==
 -->
