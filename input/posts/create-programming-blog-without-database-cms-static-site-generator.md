@@ -89,13 +89,13 @@ I realized how much I'm trapped in the world of the enterprise software developm
 The platform I came across is the leader and most popular in the field,  Jekyll. Looked promissing, but have poor support on Windows, so I decided to chose a technology based on  platform which is much closer to my knowlede, the .NET.
 
 Wyam, the technology I used and the rest of article is going to be touched by it. 
-But you don
+But even if you decide for any other, the pattern should be prety much the same.
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEwMzQ3NDYsMTMwMTkzMjQwMiwxNz
+eyJoaXN0b3J5IjpbLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNz
 Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
