@@ -19,10 +19,7 @@ I spent most of my evenings in the last month setting up this blog. I have some 
 The desired article I was searching for shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
 The most important part of a blog is the content, so don't lose time on a flashy design.
 Most successful blogs usually doesn't have very attractive design. Their design usually didn't experience a change in the last decade :)
-
 This blog post aims at programmers seeking the info how to create the blog technically.
-
-It stole most of my evenings in the last month, but now I know a solution which fulfills all these aspects better than I could ever dream of.
 
 Your blog should be hosted on a second level domain (like myblog.com), should have all the technical necessities, minimum setup, minimum maintenance and running costs as low as possible.
 
@@ -81,6 +78,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMjA0MzE3LDE3NjYyMzg1ODEsMTA4OD
+eyJoaXN0b3J5IjpbNzk1ODkzNjEzLDE3NjYyMzg1ODEsMTA4OD
 U5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
