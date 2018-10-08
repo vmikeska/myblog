@@ -22,7 +22,7 @@ Most successful blogs usually doesn't have very attractive design. Their design 
 This blog post aims at programmers seeking the info how to create the blog technically.
 
 ### What do you want
-Your blog should have a second level domain (like myblog.com), should have all the technical necessities, minimal setup, minimal maintenance and running costs as low as possible.
+Your blog should have a second level domain (like myblog.com), all the technical necessities, minimal setup, minimal maintenance and running costs as low as possible.
 
 ### This post helps you to make a setup like this
 
@@ -35,7 +35,7 @@ Your blog should have a second level domain (like myblog.com), should have all t
 | maintenance | None at all|
 | backups | Without any effor|
 | hosting cost | Completly for free|
-|
+| **cost over all** | $4 or less a year for domain
 
 
 
@@ -79,6 +79,6 @@ But then I came across one technology...
 ## Static Site Generator
 I still cannot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg5MDIxOTAsMTc2NjIzODU4MSwxMD
-g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTc2MjAwODI1MCwxNzY2MjM4NTgxLDEwOD
+g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
