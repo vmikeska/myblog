@@ -104,17 +104,17 @@ You can move your content to any other platform with ease.
 
 #### Setting up the Wyam project
 
-#### Compiling your Markdown content into a web
+#### Compiling your Markdown content into a HTML
 
 
-#### Stroring 
+#### Setting up your repository
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5NzYyMTIsMTk1NTI3MDk0OSwxMT
-M4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIz
-ODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTUyODc4NzQ3MSwxOTU1MjcwOTQ5LDExMz
+gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
+NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
