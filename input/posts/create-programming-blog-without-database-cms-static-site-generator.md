@@ -102,15 +102,19 @@ Beside using Markdown you could have two more choices:
 If you decide for Markdown, you become 100% platform independent and you can transpile your content into HTML by houndreds render engines available.
 You can move your content to any other platform with ease.
 
-### Compiling your Markdown content into a web
+#### Setting up the Wyam project
 
+#### Compiling your Markdown content into a web
+
+
+#### Stroring 
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjE2NzUwLDE5NTUyNzA5NDksMTEzOD
-IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
-ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTE5MTU5NzYyMTIsMTk1NTI3MDk0OSwxMT
+M4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIz
+ODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
