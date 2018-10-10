@@ -95,11 +95,11 @@ But even if you decide for any other Static site generator, the principal should
 There must happen two things with the content you write. It must be somehow written and it must be somehow rendered.
 The rendering at the end is going to be in HTML, there is not any other choise.
 
-
-
 Beside using Markdown you could have two more choices:
 - **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the articles, when you later decide for resturcturing or redesing. It would be heavy going as well.
-- **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough 
+- **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough and there's still issue with the platform dependency
+
+If you de form Markdown, you
 
 
 The content is base of the blog and must be somehow written. 
@@ -112,7 +112,7 @@ If you consider to become a blogger, If you haven't heard of Markdown yet,
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTczMDUyNSwxMTM4MjA4MzAzLC0xMz
+eyJoaXN0b3J5IjpbMTk5Njc0MjM0OSwxMTM4MjA4MzAzLC0xMz
 M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
 Njg0LDEyOTA5OTkxNjVdfQ==
 -->
