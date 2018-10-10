@@ -107,14 +107,16 @@ You can move your content to any other platform with ease.
 #### Compiling your Markdown content into a HTML
 
 
-#### Setting up your repository
+#### Setting up your repository on GitHub
+
+#### Deploying to the GitHub pages for free
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODc4NzQ3MSwxOTU1MjcwOTQ5LDExMz
-gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
-NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbNTcyNzY5NDE0LDE5NTUyNzA5NDksMTEzOD
+IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
+ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
