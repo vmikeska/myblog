@@ -100,11 +100,8 @@ Beside using Markdown you could have two more choices:
 - **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough and there's still issue with the platform dependency
 
 If you decide for Markdown, you become 100% platform independent and you can transpile your content into HTML by houndreds render engines available.
+You can move your content to any other platform with ease.
 
-
-The content is base of the blog and must be somehow written. 
-
-If you consider to become a blogger, If you haven't heard of Markdown yet, 
 
 
 
@@ -112,7 +109,7 @@ If you consider to become a blogger, If you haven't heard of Markdown yet,
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
-M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
-Njg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTM3MzU5NTkyMSwxOTU1MjcwOTQ5LDExMz
+gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
+NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
