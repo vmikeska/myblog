@@ -102,6 +102,7 @@ Beside using Markdown you could have two more choices:
 If you decide for Markdown, you become 100% platform independent and you can transpile your content into HTML by houndreds render engines available.
 You can move your content to any other platform with ease.
 
+### Compiling your Markdown content into a web
 
 
 
@@ -109,7 +110,7 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzU5NTkyMSwxOTU1MjcwOTQ5LDExMz
-gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
-NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbODg0NjE2NzUwLDE5NTUyNzA5NDksMTEzOD
+IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
+ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
