@@ -91,8 +91,8 @@ Jekyll, the platform I came across is the leader and most popular in the field. 
 Wyam, the technology I used and the rest of article is going to be affected by it. 
 But even if you decide for any other Static site generator, the principal should be prety much the same.
 
-# Markdown - the base of content
-
+#### Markdown - the base of content
+If you haven't heard 
 
 
 
@@ -100,7 +100,7 @@ But even if you decide for any other Static site generator, the principal should
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjMyNDc2LDExMzgyMDgzMDMsLTEzMz
+eyJoaXN0b3J5IjpbODM0NDk3ODU0LDExMzgyMDgzMDMsLTEzMz
 c4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2
 ODQsMTI5MDk5OTE2NV19
 -->
