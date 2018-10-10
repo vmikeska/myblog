@@ -99,7 +99,7 @@ Beside using Markdown you could have two more choices:
 - **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the articles, when you later decide for resturcturing or redesing. It would be heavy going as well.
 - **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough and there's still issue with the platform dependency
 
-If you decide for Markdown, you become 100% platform independent and you can transpile your content into 
+If you decide for Markdown, you become 100% platform independent and you can transpile your content into HTML by houndreds render engines available.
 
 
 The content is base of the blog and must be somehow written. 
@@ -112,7 +112,7 @@ If you consider to become a blogger, If you haven't heard of Markdown yet,
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ1MjUzNTUsMTEzODIwODMwMywtMT
-MzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5
-MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
+M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
+Njg0LDEyOTA5OTkxNjVdfQ==
 -->
