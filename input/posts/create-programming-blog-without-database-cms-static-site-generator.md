@@ -98,7 +98,7 @@ The rendering at the end is going to be in HTML, there is not any other choise.
 
 
 Beside using Markdown you could have two more choices:
-- **Write directly in HTML** - but this 
+- **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the 
 But to write your content directly in the HTML is not a good practice due to its platform dependecy.
 Might get prety tricky once you decide to move your content to any other platform.
 Of couse you could you as WYSIWYG editor, but it's still going to be platform dependant and the source HTML is never going to be very well sturctured.
@@ -114,7 +114,7 @@ If you consider to become a blogger, If you haven't heard of Markdown yet,
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODg1NDg0LDExMzgyMDgzMDMsLTEzMz
-c4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2
-ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbLTE2ODczNTI4MjYsMTEzODIwODMwMywtMT
+MzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5
+MDY4NCwxMjkwOTk5MTY1XX0=
 -->
