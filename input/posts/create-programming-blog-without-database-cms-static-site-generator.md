@@ -24,14 +24,14 @@ Most successful blogs usually doesn't have very attractive design. Their design 
 This blog post aims at programmers seeking the info how to create the blog technically.
 
 ### What do you want
-Your blog should have a second level domain with HTTPS (like myblog.com), minimal setup, minimal maintenance and running costs as low as possible.
+Your blog should have a second level domain with HTTPS (like myblog.com), minimal setup, minimal maintenance, perfect content editor and running costs as low as possible.
 
 ### This post helps you to make a setup like this
 
 | aspect | solution |
 |--|--|
 | url | Second level domain, HTTPS |
-| features | Comments with Disqus, Addthis sharing and Full Markdown support|
+| features | Comments under article, Sharing buttons and Full Markdown support|
 | setup and deployment | Everything in one Sunday|
 | security | Cannot be hacked, completly care-less|
 | maintenance | None at all|
@@ -119,8 +119,8 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc1NTcxOTgsLTIwODg3ODgwMywtNj
-cyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgz
-MDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLD
-EwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02Nz
+I2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMw
+MywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMT
+A4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
