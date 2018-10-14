@@ -15,10 +15,10 @@ Tags:
 ### Just setup a blog...
 I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
-When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article helping me to 
+When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and the next one start to work on the content right away.
 
 ### ...I'd like to share with you how to setup a blog technically
-The desired article I was searching for shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
+The desired article I was seeking shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
 The most important part of a blog is the content, so don't lose time on a flashy design.
 Most successful blogs usually doesn't have very attractive design. Their design usually didn't experience a change in the last decade :)
 This blog post aims at programmers seeking the info how to create the blog technically.
@@ -119,7 +119,7 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDg4Nzc4NywtMjA4ODc4ODAzLC02Nz
+eyJoaXN0b3J5IjpbLTkyMDMxNjA5NSwtMjA4ODc4ODAzLC02Nz
 I2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMw
 MywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMT
 A4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
