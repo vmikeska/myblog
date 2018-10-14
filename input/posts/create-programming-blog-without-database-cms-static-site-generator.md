@@ -13,7 +13,8 @@ Tags:
 ---
 
 ### Just setup a blog...
-I spent most of my evenings in the last month setting up this blog. I have some fresh knowlede I want to share with you. When I was searching for and article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress. As the programming blog is a bit specific type of blog, I decided write one of mine first posts about creating programming blogs.  
+I spent most of my evenings in the last month setting up this blog and I'd like to share with you this fresh knowledge. 
+When I was searching for an article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress. As the programming blog is a bit specific type of blog, I decided write one of mine first posts about creating programming blogs.  
 
 ### ...I'd like to share with you how to setup a blog technically
 The desired article I was searching for shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
@@ -117,8 +118,8 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTA1Mjg0OCwtNjcyNjMwMzYzLDQ0Mz
-A1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1
-MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMT
-I5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbLTM0OTk2ODE3LC02NzI2MzAzNjMsNDQzMD
+U4MDA4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNzg4NjUw
+MiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4NCwxMj
+kwOTk5MTY1XX0=
 -->
