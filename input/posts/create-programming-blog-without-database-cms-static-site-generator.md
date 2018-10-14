@@ -97,7 +97,7 @@ The rendering at the end is going to be in HTML, there is not any other choise.
 
 Beside using Markdown you could have two more choices:
 - **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the articles, when you later decide for resturcturing or redesing. It would be heavy going as well.
-- **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough and there's still issue with the platform dependency
+- **Use a WYSIWYG editor** - it's easy to write, but outputed HTML will be never good enough. On top of that the actual result displayed on the page
 
 If you decide for Markdown, you become 100% platform independent and you can transpile your content into HTML by houndreds render engines available.
 You can move your content to any other platform with ease.
@@ -117,7 +117,7 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
-IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
-ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbNDI0ODc5NjgzLDQ0MzA1ODAwOCwxOTU1Mj
+cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
+MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
