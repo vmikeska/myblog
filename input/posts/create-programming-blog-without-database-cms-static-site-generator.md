@@ -13,8 +13,7 @@ Tags:
 ---
 
 ### Just setup a blog...
-I spent most of my evenings in the last month setting up this blog and I'd like to share with you this fresh knowledge.
-As the programming blog is a bit specific kind of blog, I decided to write one of mine first posts about creating programming blogs.
+I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
 When I was searching for an article to help me get started, the only I could find were the blog posts about the webhostings and Wordpress.   
 
@@ -120,8 +119,8 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzMwMDMzOTQsLTY3MjYzMDM2Myw0ND
-MwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2
-NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkwNjg0LD
-EyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0Mz
+A1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1
+MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMT
+I5MDk5OTE2NV19
 -->
