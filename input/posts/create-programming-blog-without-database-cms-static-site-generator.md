@@ -47,7 +47,7 @@ If you want to know a bit more about my journey, just keep reading continually.
 ### Popular CMS like Wordpress or GHost
 This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
 
-But as I later found out,  these last 10% is not an easy piece.
+Sounds good, but as I later found out,  these last 10% is not an easy piece.
 
 On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
@@ -121,8 +121,9 @@ You can move your content to any other platform with ease.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwOD
-g3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5
-LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNz
-Y2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4Mj
+I1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4
+LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNzg4NjUwMiwxMz
+AxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5
+MTY1XX0=
 -->
