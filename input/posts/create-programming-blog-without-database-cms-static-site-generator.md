@@ -115,9 +115,7 @@ The setup consist of following steps:
 2. Initializaton, it downloads itself some dependant nuget packages
 3. You choose template of the page (receipe and theme). Receipe is the template type, it's gonna be `Blog`in our case. The template for this blog is slightly modified `CleanBlog`.
 4. Write your content in Markdown into `.md` files in `Input` directory
-5. Build by a console command, static HTML files outputs into the `Input` for
-
-
+5. Build by a console command, static HTML files outputs into the `Output` folder.
 
 #### Compiling your Markdown content into a HTML
 
@@ -132,9 +130,9 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMjA4ODkwLDE0MDU2MDQ2MSwxNDM2OT
-M2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMs
-LTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4Mj
-A4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4
-MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMTA0NjQzNzA3OCwxNDA1NjA0NjEsMTQzNj
+kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
+LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
+IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
+ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
