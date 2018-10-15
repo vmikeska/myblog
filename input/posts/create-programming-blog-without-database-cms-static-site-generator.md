@@ -125,7 +125,7 @@ I personally use online editor [Stackedit](https://stackedit.io) and sometimes m
 #### Setting up your repository on GitHub
 Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next chapter.
 
-The solution to store the content files I chose includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into your computer and with a you can build your project right away with just a one console command. 
+The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
 This is a very important part of the project structure
 
@@ -137,10 +137,9 @@ This is a very important part of the project structure
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc4MzM2MzcsNDc3MDYzMDM1LDE0MD
-U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
-LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
-I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
-MDIsMTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ
-==
+eyJoaXN0b3J5IjpbMTgzMjA1OTkzMCw0NzcwNjMwMzUsMTQwNT
+YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
+LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
+cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
+MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
