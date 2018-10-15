@@ -117,7 +117,7 @@ The setup consist of following steps:
 4. Write your content in Markdown into `.md` files in `Input` directory
 5. Build by a console command, static HTML files outputs into the `Output` folder.
 
-#### Compiling your Markdown content into a HTML
+#### Compiling your Markdown content into the HTML
 
 
 #### Setting up your repository on GitHub
@@ -130,7 +130,7 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjQzNzA3OCwxNDA1NjA0NjEsMTQzNj
+eyJoaXN0b3J5IjpbLTk1MzIwOTY1OCwxNDA1NjA0NjEsMTQzNj
 kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
 LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
 IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
