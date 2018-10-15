@@ -128,14 +128,14 @@ Github is going to play significant role in your blog. It stores your .md conten
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
 #### Deploying to the GitHub pages for free
-
+Maybe you might not know, but there is a possiblity to host a static HTML page on the Github for free !!! I
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI1NjAwNTQsNDc3MDYzMDM1LDE0MD
+eyJoaXN0b3J5IjpbLTIwMjA0ODY2ODQsNDc3MDYzMDM1LDE0MD
 U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
 LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
 I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
