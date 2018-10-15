@@ -125,7 +125,7 @@ I personally use online editor [Stackedit](https://stackedit.io) and sometimes m
 #### Setting up your repository on GitHub
 Github is going to cover significant part of our website function. Since we have not database, all we need to store is the content, .md files in our case.
 
-The solution I chose includs the binaries as well. It simplifies the setup on a new computer. You just download your entier repository into your comp
+The solution I chose includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into your computer and with a one console co 
 The project structure is very tighly coupled with 
 
 
@@ -139,9 +139,9 @@ This is a very important part of the project structure
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4MzI0MzcsNDc3MDYzMDM1LDE0MDU2MD
-Q2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0y
-MDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MD
-k0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIs
-MTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTU5MDk2MDM5MSw0NzcwNjMwMzUsMTQwNT
+YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
+LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
+cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
+MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
