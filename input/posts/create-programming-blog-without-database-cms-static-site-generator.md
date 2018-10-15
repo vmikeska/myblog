@@ -122,12 +122,12 @@ There is dozen applications for writing Markdown files. All of them provide feat
 
 I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
-
-
-
-
-
 #### Setting up your repository on GitHub
+
+The project backup 
+
+
+This is a very important part of the project structure
 
 #### Deploying to the GitHub pages for free
 
@@ -137,9 +137,10 @@ I personally use online editor [Stackedit](https://stackedit.io) and sometimes m
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNTQwNTY1LDQ3NzA2MzAzNSwxNDA1Nj
-A0NjEsMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwt
-MjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNz
-A5NDksMTEzODIwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAy
-LDE3NjYyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTIwMjExNDEyNDEsNDc3MDYzMDM1LDE0MD
+U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
+LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
+I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
+MDIsMTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ
+==
 -->
