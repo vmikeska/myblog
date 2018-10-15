@@ -118,7 +118,7 @@ The setup consist of following steps:
 5. Build by a console command, static HTML files outputs into the `Output` folder.
 
 #### Writting in Markdown
-There is dozen applications for writing Markdown files. 
+There is dozen applications for writing Markdown files. All of them provide feature of immediate preview conversion.
 
 
 #### Setting up your repository on GitHub
@@ -131,9 +131,9 @@ There is dozen applications for writing Markdown files.
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTkyMTI5NiwxNDA1NjA0NjEsMTQzNj
-kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
-LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
-IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
-ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OT
+M2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMs
+LTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4Mj
+A4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4
+MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
