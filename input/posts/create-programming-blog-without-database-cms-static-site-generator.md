@@ -123,6 +123,7 @@ There is dozen applications for writing Markdown files. All of them provide feat
 I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
 #### Setting up your repository on GitHub
+Github is going to vo
 The project structure is very tighly coupled with 
 
 
@@ -136,7 +137,7 @@ This is a very important part of the project structure
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODE3MjE3Nyw0NzcwNjMwMzUsMTQwNT
+eyJoaXN0b3J5IjpbMjA5Mjg3ODAwNCw0NzcwNjMwMzUsMTQwNT
 YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
 LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
 cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
