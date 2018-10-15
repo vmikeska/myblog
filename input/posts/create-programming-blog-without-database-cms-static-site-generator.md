@@ -112,7 +112,7 @@ I won't be very chatty at this point, the project [Wyam](https://wyam.io) is ver
 The setup consist of following steps:
 
 1. Download the latest [release](https://github.com/Wyamio/Wyam/releases).
-2. Initiazization, downlod of 
+2. Initializaton, it downl 
 
 
 
@@ -129,9 +129,9 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODcxNDY5NywxNDA1NjA0NjEsMTQzNj
-kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
-LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
-IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
-ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
+eyJoaXN0b3J5IjpbLTEwMzA3NDQ5NDMsMTQwNTYwNDYxLDE0Mz
+Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
+MywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMz
+gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
+NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
