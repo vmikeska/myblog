@@ -113,7 +113,7 @@ The setup consist of following steps:
 
 1. Download the latest [release](https://github.com/Wyamio/Wyam/releases).
 2. Initializaton, it downloads itself some dependant nuget packages
-3. You choose  
+3. You choose template of the page (receipe and theme). Receipe is the template type, it's gonna be "Blog" in your ase 
 
 
 
@@ -130,9 +130,9 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MDQzNTk1LDE0MDU2MDQ2MSwxNDM2OT
-M2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMs
-LTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4Mj
-A4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4
-MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTI5MDU5NzU1NCwxNDA1NjA0NjEsMTQzNj
+kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
+LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
+IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
+ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
