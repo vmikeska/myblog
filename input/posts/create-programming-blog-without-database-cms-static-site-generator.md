@@ -107,7 +107,7 @@ If you decide for Markdown, you become 100% platform independent and you can tra
 You can move your content to any other platform with ease.
 
 #### Setting up the Wyam project
-I won't be very chatty at this point, the project [Wyam](https://wyam.io) is very well documented and out there can be found already couple of good articles describing the setup in detail.
+I won't be very chatty at this point, the project [Wyam](https://wyam.io) is very well documented and out there can be found dozen greate articles about the setup in detail.
 
 The setup consist of following steps:
 
@@ -117,7 +117,7 @@ The setup consist of following steps:
 4. Write your content in Markdown into `.md` files in `Input` directory
 5. Build by a console command, static HTML files outputs into the `Output` folder.
 
-#### Compiling your Markdown content into the HTML
+#### Writting th
 
 
 #### Setting up your repository on GitHub
@@ -130,7 +130,7 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzIwOTY1OCwxNDA1NjA0NjEsMTQzNj
+eyJoaXN0b3J5IjpbLTE2MzcxMDI1MCwxNDA1NjA0NjEsMTQzNj
 kzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAz
 LC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzOD
 IwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1
