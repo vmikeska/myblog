@@ -114,8 +114,8 @@ The setup consist of following steps:
 1. Download the latest [release](https://github.com/Wyamio/Wyam/releases).
 2. Initializaton, it downloads itself some dependant nuget packages
 3. You choose template of the page (receipe and theme). Receipe is the template type, it's gonna be `Blog`in our case. The template for this blog is slightly modified `CleanBlog`.
-4. Write your content in Markdown into `.md` files
-5. Build by a console command
+4. Write your content in Markdown into `.md` files in `Input` directory
+5. Build by a console command, static HTML files outputs into the `Input` for
 
 
 
@@ -132,9 +132,9 @@ The setup consist of following steps:
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYyODY4MjgsMTQwNTYwNDYxLDE0Mz
-Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
-MywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMz
-gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
-NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbMjgxMjA4ODkwLDE0MDU2MDQ2MSwxNDM2OT
+M2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMs
+LTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4Mj
+A4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4
+MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
