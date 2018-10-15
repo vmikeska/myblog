@@ -107,7 +107,9 @@ If you decide for Markdown, you become 100% platform independent and you can tra
 You can move your content to any other platform with ease.
 
 #### Setting up the Wyam project
-I won't be very chatty at this point, as the project [Wyam releases](https://github.com/Wyamio/Wyam/releases)
+I won't be very chatty at this point, the project [Wyam](https://wyam.io) is very well documented 
+
+ [Wyam releases](https://github.com/Wyamio/Wyam/releases)
 
 #### Compiling your Markdown content into a HTML
 
@@ -122,9 +124,9 @@ I won't be very chatty at this point, as the project [Wyam releases](https://git
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDQ4ODc2MiwxNDM2OTM2MjEyLDE3ND
-ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
-Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
-M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
-Njg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbNDYyNDU3MzA2LDE0MzY5MzYyMTIsMTc0MT
+EzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYz
+LDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMz
+c4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2
+ODQsMTI5MDk5OTE2NV19
 -->
