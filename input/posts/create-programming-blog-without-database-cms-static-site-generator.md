@@ -122,6 +122,8 @@ There is dozen applications for writing Markdown files. All of them provide feat
 
 I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
+todo: picture sturcture of this two repositories
+
 #### Setting up your repository on GitHub
 Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next chapter.
 
@@ -140,9 +142,9 @@ You just setup a Github repository where you place the static HTML files outuput
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjUwNDcyMiw0NzcwNjMwMzUsMTQwNT
-YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
-LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
-cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
-MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MD
+Q2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0y
+MDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MD
+k0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIs
+MTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
