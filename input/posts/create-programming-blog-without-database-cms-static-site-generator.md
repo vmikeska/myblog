@@ -123,8 +123,9 @@ There is dozen applications for writing Markdown files. All of them provide feat
 I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
 #### Setting up your repository on GitHub
-Github is going to cover significant part of our website function. Since we have not database, all we need to store is the content, .md
-in our case we store the entire application includi
+Github is going to cover significant part of our website function. Since we have not database, all we need to store is the content, .md files in our case.
+
+The solution I chose includs the binaries as well. It simplifies the setup on a new computer. You just download your entier repository into your comp
 The project structure is very tighly coupled with 
 
 
@@ -138,9 +139,9 @@ This is a very important part of the project structure
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODQwMzk5MCw0NzcwNjMwMzUsMTQwNT
-YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
-LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
-cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
-MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
+eyJoaXN0b3J5IjpbNTc4MzI0MzcsNDc3MDYzMDM1LDE0MDU2MD
+Q2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0y
+MDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MD
+k0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIs
+MTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
 -->
