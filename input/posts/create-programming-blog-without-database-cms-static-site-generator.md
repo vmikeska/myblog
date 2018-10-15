@@ -120,7 +120,7 @@ The setup consist of following steps:
 #### Writting in Markdown
 There is dozen applications for writing Markdown files. All of them provide feature of immediate preview.
 
-I personally use online editor [enter link description here](https://stackedit.io)
+I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these 
 
 
 #### Setting up your repository on GitHub
@@ -133,7 +133,7 @@ I personally use online editor [enter link description here](https://stackedit.i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjQ3ODU0Miw0NzcwNjMwMzUsMTQwNT
+eyJoaXN0b3J5IjpbLTc3NjkwOTI4NCw0NzcwNjMwMzUsMTQwNT
 YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
 LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
 cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
