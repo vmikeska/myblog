@@ -130,17 +130,19 @@ The solution to store the content files I chose, includes the binaries as well. 
 #### Deploying to the GitHub pages for free
 Maybe you might not know, but there is a possiblity to host a static HTML page on the Github for free !!! All this setup on the second level domain (like myblog.com).
 
-You just setup a Github repository where you place the static HTML files outuputed by the build. 
+You just setup a Github repository where you place the static HTML files outuputed by the build. After short setup on the repostiory setting you'll can browse the page.
+
+#### Setting up the second level domain
+
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg0OTM1NTMsNDc3MDYzMDM1LDE0MD
-U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
-LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
-I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
-MDIsMTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTYwMjUwNDcyMiw0NzcwNjMwMzUsMTQwNT
+YwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYs
+LTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1Mj
+cwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQw
+MiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MDk5OTE2NV19
 -->
