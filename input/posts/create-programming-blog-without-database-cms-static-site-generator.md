@@ -140,15 +140,21 @@ You just setup a Github repository where you place the static HTML files outuput
 
 Well, no one could describe this process better than the Github itself. So the root article can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/). But you'll be most possibly setting and apex domain (like example.com), for this case the exact info can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
+I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values:
+| Record |  |
+|--|--|
+|  |  |
+
+
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcwOTk2NzcsOTgwMzIyMjQsNDc3MD
-YzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwx
-OTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNT
-gwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAy
-LDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOT
-A5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMTAxOTA0OTQ3MywtMjA4NzA5OTY3Nyw5OD
+AzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIs
+MTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNj
+MwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMs
+LTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwOD
+g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
