@@ -12,7 +12,7 @@ Tags:
 - github pages
 ---
 
-### Have Just setup a blog...
+### Have just setup a blog...
 I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
 When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and the next one start to work on the content right away.
@@ -162,11 +162,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzA2MDgxNiwtMTQzMDk1NjI2MCwxMT
-U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
-MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
-ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
-Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
-M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
-Njg0XX0=
+eyJoaXN0b3J5IjpbODg3Njc4MjQsLTE0MzA5NTYyNjAsMTE1Nz
+Y3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0
+LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMT
+MzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMs
+NDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNz
+g4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4
+NF19
 -->
