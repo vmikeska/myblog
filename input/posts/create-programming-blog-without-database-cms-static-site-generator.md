@@ -147,18 +147,24 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | A | 185.199.109.153 |
 | A | 185.199.110.153 |
 | A | 185.199.111.153 |
-| ALIAS | your-repository |
-| A | 185.199.111.153 |
+| ALIAS | your-github-repository-name.github.io |
+| NS | your-github-repository-name.github.io |
+
+
+
+
+
+
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA3Mjk0NTIsLTIwODcwOTk2NzcsOT
-gwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEy
-LDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3Mj
-YzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAz
-LC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMD
-g4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbLTkxMjU5NDU3MywtMjA4NzA5OTY3Nyw5OD
+AzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIs
+MTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNj
+MwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMs
+LTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwOD
+g1OTA2ODQsMTI5MDk5OTE2NV19
 -->
