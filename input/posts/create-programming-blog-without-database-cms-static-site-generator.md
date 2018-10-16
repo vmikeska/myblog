@@ -120,9 +120,10 @@ The setup consist of following steps:
 #### Writting in Markdown
 There is a dozen of Markdown editors on the Market and most of them for free. All of them provide feature of immediate preview.
 
-I personally use online editor [Stackedit](https://stackedit.io) which can directly commu
+I personally use online editor [Stackedit](https://stackedit.io) which can directly sync with the GitHub, where my files are stored.
 
-and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
+When offline, I use [Visual Studio Code](https://code.visualstudio.com) IDE. 
+But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
 todo: picture sturcture of this two repositories
 
@@ -164,11 +165,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MzAzNjExLC0xNDMwOTU2MjYwLDExNT
-c2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Nyw5ODAzMjIy
-NCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MT
-EzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYz
-LDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMz
-c4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2
-ODRdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk2MjQwMTcsLTE0MzA5NTYyNjAsMT
+E1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMy
+MjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNz
+QxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAz
+NjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMT
+MzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5
+MDY4NF19
 -->
