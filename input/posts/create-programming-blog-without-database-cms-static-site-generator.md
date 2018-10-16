@@ -138,7 +138,7 @@ You just setup a Github repository where you place the static HTML files outuput
 
 #### Setting up the second level domain
 
-Well, no one could describe this process better than the Github itself. So the r
+Well, no one could describe this process better than the Github itself. So the root article can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/). You'll be most possibly setting and apex domain (like example.com), for this case the exact info can be found 
 
 
 
@@ -146,10 +146,10 @@ Well, no one could describe this process better than the Github itself. So the r
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzc1NjI1Niw5ODAzMjIyNCw0NzcwNj
-MwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5
-ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1OD
-AwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIs
-MTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MD
-k5OTE2NV19
+eyJoaXN0b3J5IjpbODE2OTEwNDQzLDk4MDMyMjI0LDQ3NzA2Mz
+AzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4
+MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MD
+A4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNzg4NjUwMiwx
+MzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOT
+k5MTY1XX0=
 -->
