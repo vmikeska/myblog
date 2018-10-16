@@ -130,7 +130,7 @@ Github is going to play significant role in your blog. It stores your .md conten
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
 #### Deploying to the GitHub pages for free
-Maybe you might not know, but there is a possiblity to host a static HTML page on the Github for free !!! All this setup on the second level domain (like myblog.com).
+Maybe you might not know, but there is a possiblity to host a static HTML page on the Github for free !!! And all this with a second level domain (like myblog.com).
 
 You just setup a Github repository where you place the static HTML files outuputed by the build. After short setup on the repostiory setting you'll can browse the page.
 
@@ -161,10 +161,10 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI4NDA1LC05MTI1OTQ1NzMsLTIwOD
-cwOTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwx
-NDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nz
-g4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwx
-MTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2Nj
-IzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMD
+g3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEs
+MTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4OD
+c4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDks
+MTEzODIwODMwMywtMTMzNzg4NjUwMiwxMzAxOTMyNDAyLDE3Nj
+YyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5MTY1XX0=
 -->
