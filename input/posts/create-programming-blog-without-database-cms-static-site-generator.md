@@ -118,9 +118,11 @@ The setup consist of following steps:
 5. Build by a console command, static HTML files outputs into the `Output` folder.
 
 #### Writting in Markdown
-There is dozen applications for writing Markdown files. All of them provide feature of immediate preview.
+There is a dozen of Markdown editors on the Market and most of them for free. All of them provide feature of immediate preview.
 
-I personally use online editor [Stackedit](https://stackedit.io) and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
+I personally use online editor [Stackedit](https://stackedit.io) which can directly commu
+
+and sometimes my development IDE [Visual Studio Code](https://code.visualstudio.com). But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
 todo: picture sturcture of this two repositories
 
@@ -162,11 +164,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3Njc4MjQsLTE0MzA5NTYyNjAsMTE1Nz
-Y3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0
-LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMT
-MzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMs
-NDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNz
-g4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4
-NF19
+eyJoaXN0b3J5IjpbOTM3MzAzNjExLC0xNDMwOTU2MjYwLDExNT
+c2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Nyw5ODAzMjIy
+NCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MT
+EzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYz
+LDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMz
+c4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2
+ODRdfQ==
 -->
