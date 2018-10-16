@@ -12,7 +12,7 @@ Tags:
 - github pages
 ---
 
-### Just setup a blog...
+### Have Just setup a blog...
 I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
 When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and the next one start to work on the content right away.
@@ -149,7 +149,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | A | 185.199.110.153 |
 | A | 185.199.111.153 |
 | ALIAS | your-github-repository-name.github.io |
-| NS | your-github-repository-name.github.io |
+| DNS | your-github-repository-name.github.io |
 
 
 
@@ -162,11 +162,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOT
-EyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAz
-NSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4Mj
-I1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4
-LDE5NTUyNzA5NDksMTEzODIwODMwMywtMTMzNzg4NjUwMiwxMz
-AxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5MDY4NCwxMjkwOTk5
-MTY1XX0=
+eyJoaXN0b3J5IjpbLTgxMzA2MDgxNiwtMTQzMDk1NjI2MCwxMT
+U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
+MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
+ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
+Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
+M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
+Njg0XX0=
 -->
