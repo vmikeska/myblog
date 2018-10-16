@@ -136,15 +136,18 @@ You just setup a Github repository where you place the static HTML files outuput
 
 #### Setting up the second level domain
 
+Well, no one could describe this process better than the Github itself. So 
+
 
 
 
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MD
-Q2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0y
-MDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MD
-k0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIs
-MTc2NjIzODU4MSwxMDg4NTkwNjg0LDEyOTA5OTkxNjVdfQ==
+eyJoaXN0b3J5IjpbMTI5NTk4NzA0Miw5ODAzMjIyNCw0NzcwNj
+MwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5
+ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1OD
+AwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIs
+MTMwMTkzMjQwMiwxNzY2MjM4NTgxLDEwODg1OTA2ODQsMTI5MD
+k5OTE2NV19
 -->
