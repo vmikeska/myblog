@@ -128,7 +128,7 @@ But you don't really have to stick to any of these, don't hesitate to make your 
 todo: picture sturcture of this two repositories
 
 #### Setting up your repository on GitHub
-Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next chapter.
+Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next step.
 
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
@@ -165,11 +165,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk2MjQwMTcsLTE0MzA5NTYyNjAsMT
-E1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMy
-MjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNz
-QxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAz
-NjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMwMywtMT
-MzNzg4NjUwMiwxMzAxOTMyNDAyLDE3NjYyMzg1ODEsMTA4ODU5
-MDY4NF19
+eyJoaXN0b3J5IjpbLTMyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMT
+U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
+MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
+ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
+Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
+M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
+Njg0XX0=
 -->
