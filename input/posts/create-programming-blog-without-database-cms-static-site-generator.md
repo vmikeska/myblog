@@ -134,9 +134,11 @@ Maybe you might not know, but there is a possiblity to host a static HTML page o
 
 You just setup a Github repository where you place the static HTML files outuputed by the build. After short setup on the repostiory setting you'll can browse the page.
 
+[Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
+
 #### Setting up the second level domain
 
-Well, no one could describe this process better than the Github itself. So 
+Well, no one could describe this process better than the Github itself. So the r
 
 
 
@@ -144,7 +146,7 @@ Well, no one could describe this process better than the Github itself. So
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTk4NzA0Miw5ODAzMjIyNCw0NzcwNj
+eyJoaXN0b3J5IjpbMTIwMzc1NjI1Niw5ODAzMjIyNCw0NzcwNj
 MwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5
 ODIyNTEwMDYsLTIwODg3ODgwMywtNjcyNjMwMzYzLDQ0MzA1OD
 AwOCwxOTU1MjcwOTQ5LDExMzgyMDgzMDMsLTEzMzc4ODY1MDIs
