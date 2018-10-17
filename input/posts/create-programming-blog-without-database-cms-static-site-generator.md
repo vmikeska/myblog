@@ -137,9 +137,9 @@ Maybe you don't know, but there is a possiblity to host a static HTML page on th
 
 The content of the repository is exactly the content of your website. This way it hosts your static HTML files created by the Wyam build.
 
-You don't even have to hide it in a private repository, as all the content of the repository is meant to be displayed to the internet
+You don't even have to hide it in a private repository, as all the content of the repository is meant to be displayed to the internet. Well, just have a look on mine :) [vmikeska.github.io](https://github.com/vmikeska/vmikeska.github.io).
 
-look to my repo
+
 
 [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
@@ -169,11 +169,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDExNTc3MDYsLTMyMjkyMzU1NiwtMT
-QzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcw
-OTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxND
-M2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4
-MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMT
-M4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIz
-ODU4MV19
+eyJoaXN0b3J5IjpbLTY3NDcwNDUyNCwtMzIyOTIzNTU2LC0xND
+MwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5
+OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0Mz
+Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
+MywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMz
+gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
+NTgxXX0=
 -->
