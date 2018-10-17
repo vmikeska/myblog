@@ -135,8 +135,9 @@ The solution to store the content files I chose, includes the binaries as well. 
 #### Deploying to the GitHub pages for free
 Maybe you don't know, but there is a possiblity to host a static HTML page on the Github for free !!! Of course on a second level domain (like myblog.com).
 
-The content of the repository is exactly the content of your website. This way it hosts your static HTML files created by the build
-You just set up a Github repository where you place the static HTML files outuputed by the build. After short setup on the repostiory setting you'll can browse the page.
+The content of the repository is exactly the content of your website. This way it hosts your static HTML files created by the Wyam build.
+
+You don't even have to hide it in a private repository, as all the content of the repository is meant to be displayed to the internet
 
 look to my repo
 
@@ -168,7 +169,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk0NTU1NTIsLTMyMjkyMzU1NiwtMT
+eyJoaXN0b3J5IjpbLTE2NDExNTc3MDYsLTMyMjkyMzU1NiwtMT
 QzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcw
 OTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxND
 M2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4
