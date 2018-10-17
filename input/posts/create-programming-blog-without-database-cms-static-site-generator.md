@@ -142,9 +142,9 @@ You just setup a Github repository where you place the static HTML files outuput
 #### Setting up the second level domain
 
 Well, no one could describe this process better than the Github itself. So the root article can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/). 
-You'll be most possibly setting an apex domain (like example.com), the article for this case the exact info can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
+You'll be most possibly setting an apex domain (like example.com). The article for this case can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
-I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values:
+I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used:
 | Record | Value |
 |--|--|
 | A | 185.199.108.153 |
@@ -165,11 +165,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMT
-U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
-MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
-ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
-Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMz
-M3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIzODU4MSwxMDg4NTkw
-Njg0XX0=
+eyJoaXN0b3J5IjpbLTExNTQwMDg1ODIsLTMyMjkyMzU1NiwtMT
+QzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcw
+OTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxND
+M2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4
+MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NTI3MDk0OSwxMT
+M4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0MDIsMTc2NjIz
+ODU4MV19
 -->
