@@ -139,10 +139,7 @@ The content of the repository is exactly the content of your website. This way i
 
 You don't even have to hide it in a private repository, as all the content of the repository is meant to be displayed to the internet. Well, just have a look on mine :) [vmikeska.github.io](https://github.com/vmikeska/vmikeska.github.io).
 
-The complete
-
-
-[Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
+The complete setup guide is very well described in the article on the Github [Getting Started with GitHub Pages](https://guides.github.com/features/pages/).
 
 #### Setting up the second level domain
 
@@ -170,7 +167,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODAyOTc3OCwtMzIyOTIzNTU2LC0xND
+eyJoaXN0b3J5IjpbLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xND
 MwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5
 OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0Mz
 Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
