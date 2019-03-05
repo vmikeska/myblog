@@ -8,4 +8,7 @@ Tags:
 
 Do you also wonder why requirements to some of the positions are sometimes so high when it’s often just a junior job?
 
-![picture not found](/assets/images/strips/your-method-to-override-1.png "Strip your method to override")
+![picture not found](https://mikeska.tech/assets/images/articles/git-repos.png "Strip your method to override")
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY5NTU1NzEzOF19
+-->
