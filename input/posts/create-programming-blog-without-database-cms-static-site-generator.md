@@ -156,7 +156,8 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | ALIAS | your-github-repository-name.github.io |
 | DNS | your-github-repository-name.github.io |
 
-![picture not found](/assets/images/strips/your-method-to-override-1.png "Strip your method to override")
+
+![picture not found](https://mikeska.tech/assets/images/articles/git-repos.png "The repositories layout description")
 
 
 
@@ -167,11 +168,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzQ0MDQyLC0xODQ4MTgwODMsLTMyMj
-kyMzU1NiwtMTQzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1OTQ1
-NzMsLTIwODcwOTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MD
-U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
-LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
-I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
-MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQzNTY5MjAsNzYzNzQ0MDQyLC0xOD
+Q4MTgwODMsLTMyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMTU3Njc4
+NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIyMjQsND
+c3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2
+MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0ND
+MwNTgwMDgsMTk1NTI3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2
+NTAyXX0=
 -->
