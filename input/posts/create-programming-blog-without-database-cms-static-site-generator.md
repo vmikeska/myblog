@@ -156,7 +156,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | ALIAS | your-github-repository-name.github.io |
 | DNS | your-github-repository-name.github.io |
 
-
+![picture not found](/assets/images/strips/your-method-to-override-1.png "Strip your method to override")
 
 
 
@@ -167,11 +167,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xND
-MwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5
-OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0Mz
-Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
-MywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMz
-gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
-NTgxXX0=
+eyJoaXN0b3J5IjpbNzYzNzQ0MDQyLC0xODQ4MTgwODMsLTMyMj
+kyMzU1NiwtMTQzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1OTQ1
+NzMsLTIwODcwOTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LDE0MD
+U2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUxMDA2
+LC0yMDg4Nzg4MDMsLTY3MjYzMDM2Myw0NDMwNTgwMDgsMTk1NT
+I3MDk0OSwxMTM4MjA4MzAzLC0xMzM3ODg2NTAyLDEzMDE5MzI0
+MDJdfQ==
 -->
