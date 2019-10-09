@@ -1,7 +1,7 @@
 Title: Create a programming blog without any database or CMS by a static site generator
 Description: Don't drag into the project dependencies you don't need. Create a programming blog without any database or CMS by a static site generator using Markdown and Wyam with free hosting on Github pages
 Published: 9/10/2019
-Image: title-if.jpg
+Image: static-sites.jpg
 Tags: 
 - static site generator
 - markdown
@@ -166,11 +166,11 @@ Hope this helps. I'll most possibly keep this article updated.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLT
-EyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2
-OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLT
-E0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3
-MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMT
-QzNjkzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4
-ODAzXX0=
+eyJoaXN0b3J5IjpbLTc2MTU0NzgzMywtMTYzOTE4MDgzMCwtMT
+I5MjcxODgwNSwtMTIwMzgyOTc1LDg0NzM1NDA0Niw5NjE1ODM3
+OTEsLTE1MDQzNTY5MjAsNzYzNzQ0MDQyLC0xODQ4MTgwODMsLT
+MyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1
+OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LD
+E0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUx
+MDA2XX0=
 -->
