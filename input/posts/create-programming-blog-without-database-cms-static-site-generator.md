@@ -58,7 +58,7 @@ Branded accouts are too expensive, but there can be found hosting providers on t
 Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away.
 
 As I already implied above, the last 10% of customization can result in a terrible pain. It multiplies if you are not a PHP guy :). 
-The biggest blocker out of all was the lack of good and working Markdown plugin. 
+The biggest blocker out of all this was after all the lack of good and working Markdown plugin. 
 
 Well, I found a one after all, not perfect, but a very good one. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
@@ -168,11 +168,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNTgzNzkxLC0xNTA0MzU2OTIwLDc2Mz
-c0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5NTYy
-NjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LD
-k4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIx
-MiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02Nz
-I2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMw
-M119
+eyJoaXN0b3J5IjpbODQ3MzU0MDQ2LDk2MTU4Mzc5MSwtMTUwND
+M1NjkyMCw3NjM3NDQwNDIsLTE4NDgxODA4MywtMzIyOTIzNTU2
+LC0xNDMwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMj
+A4NzA5OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYx
+LDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwOD
+g3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5
+XX0=
 -->
