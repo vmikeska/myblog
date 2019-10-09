@@ -155,7 +155,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | ALIAS | your-github-repository-name.github.io |
 | DNS | your-github-repository-name.github.io |
 
-Hope this helps. I'll most possibly keep this artic
+Hope this helps. I'll most possibly keep this article updated.
 
 
 
@@ -166,7 +166,7 @@ Hope this helps. I'll most possibly keep this artic
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIzMTY3ODAsLTEyOTI3MTg4MDUsLT
+eyJoaXN0b3J5IjpbLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLT
 EyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2
 OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLT
 E0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3
