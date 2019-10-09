@@ -124,9 +124,9 @@ I personally use online editor [Stackedit](https://stackedit.io) which can direc
 When offline, I use [Visual Studio Code](https://code.visualstudio.com) IDE. 
 But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
-todo: picture sturcture of this two repositories
-
 #### Setting up your repository on GitHub
+![picture not found](https://mikeska.tech/assets/images/articles/git-repos.png "The repositories layout description")
+
 Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next step.
 
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
@@ -156,7 +156,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | DNS | your-github-repository-name.github.io |
 
 
-![picture not found](https://mikeska.tech/assets/images/articles/git-repos.png "The repositories layout description")
+
 
 
 
@@ -167,11 +167,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNT
-gzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgz
-LC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOT
-EyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAz
-NSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4Mj
-I1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4
-XX0=
+eyJoaXN0b3J5IjpbLTMzODgxNDI3NywtMTIwMzgyOTc1LDg0Nz
+M1NDA0Niw5NjE1ODM3OTEsLTE1MDQzNTY5MjAsNzYzNzQ0MDQy
+LC0xODQ4MTgwODMsLTMyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMT
+U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
+MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
+ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
+M119
 -->
