@@ -155,6 +155,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | ALIAS | your-github-repository-name.github.io |
 | DNS | your-github-repository-name.github.io |
 
+Hope this helps. I'll most possibly keep this artic
 
 
 
@@ -164,14 +165,12 @@ I had myself a bit issues to make sense of the official documentation, so here i
 
 
 
-advantages
-you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI3MTg4MDUsLTEyMDM4Mjk3NSw4ND
-czNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0
-MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMT
-E1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMy
-MjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNz
-QxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTIzMTY3ODAsLTEyOTI3MTg4MDUsLT
+EyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2
+OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLT
+E0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3
+MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMT
+QzNjkzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4
+ODAzXX0=
 -->
