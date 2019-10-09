@@ -15,7 +15,7 @@ Tags:
 ### Have just setup a blog...
 I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
-When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and the next one start to work on the content right away.
+When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and be able start to work on the content right away.
 
 ### ...I'd like to share with you how to setup a blog technically
 The desired article I was seeking shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
@@ -168,7 +168,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNTA1OTk3LC0xNTA0MzU2OTIwLDc2Mz
+eyJoaXN0b3J5IjpbODMyNjEwNjc0LC0xNTA0MzU2OTIwLDc2Mz
 c0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5NTYy
 NjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LD
 k4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIx
