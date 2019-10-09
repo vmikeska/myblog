@@ -6,7 +6,7 @@
 <p>Title: Create a programming blog without any database or CMS by a static site generator<br>
 Description: Don’t drag into the project dependencies you don’t need. Create a programming blog without any database or CMS by a static site generator using Markdown and Wyam with free hosting on Github pages<br>
 Published: 9/10/2019<br>
-Image: static-sites.jpg<br>
+Image: static-sitestitle-if.jpg<br>
 Tags:</p>
 <ul>
 <li>static site generator</li>
@@ -178,3 +178,6 @@ You’ll be most possibly setting an apex domain (like <a href="http://example.c
 </tbody>
 </table><p>Hope this helps. I’ll most possibly keep this article updated.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyOTE4NzgyMF19
+-->
