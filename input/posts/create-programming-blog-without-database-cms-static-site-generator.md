@@ -80,7 +80,7 @@ From the development point of view could be all this achived quite easy, but dep
 
 If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution.
 You could end up on $100 a year or maybe even a bit less. But the mayor pitfall is the time you'll spend on the configuration and maintenance. 
-You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services are might not come back. Sometimes an update after couple of years cause incompatibility with your code and so on.
+You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services might not come back. Sometimes an update after couple of years cause incompatibility with your code and so on.
 
 More care-free solution would be to use cloud services. It's configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.
 
@@ -168,11 +168,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MzU0MDQ2LDk2MTU4Mzc5MSwtMTUwND
-M1NjkyMCw3NjM3NDQwNDIsLTE4NDgxODA4MywtMzIyOTIzNTU2
-LC0xNDMwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMj
-A4NzA5OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYx
-LDE0MzY5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwOD
-g3ODgwMywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5
+eyJoaXN0b3J5IjpbLTQ1Njc5MjY5NCw4NDczNTQwNDYsOTYxNT
+gzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgz
+LC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOT
+EyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAz
+NSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNzQxMTMzNjEsMTk4Mj
+I1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAzNjMsNDQzMDU4MDA4
 XX0=
 -->
