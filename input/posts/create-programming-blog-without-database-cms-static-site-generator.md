@@ -146,6 +146,7 @@ Well, no one could describe this process better than the Github itself. So the r
 You'll be most possibly setting an apex domain (like example.com). The article for this case can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
 I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used:
+
 | Record | Value |
 |--|--|
 | A | 185.199.108.153 |
@@ -166,11 +167,11 @@ Hope this helps. I'll most possibly keep this article updated.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTU0NzgzMywtMTYzOTE4MDgzMCwtMT
-I5MjcxODgwNSwtMTIwMzgyOTc1LDg0NzM1NDA0Niw5NjE1ODM3
-OTEsLTE1MDQzNTY5MjAsNzYzNzQ0MDQyLC0xODQ4MTgwODMsLT
-MyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMTU3Njc4NzQyLC05MTI1
-OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIyMjQsNDc3MDYzMDM1LD
-E0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3NDExMzM2MSwxOTgyMjUx
-MDA2XX0=
+eyJoaXN0b3J5IjpbMTI4MDcwOTIwOSwtNzYxNTQ3ODMzLC0xNj
+M5MTgwODMwLC0xMjkyNzE4ODA1LC0xMjAzODI5NzUsODQ3MzU0
+MDQ2LDk2MTU4Mzc5MSwtMTUwNDM1NjkyMCw3NjM3NDQwNDIsLT
+E4NDgxODA4MywtMzIyOTIzNTU2LC0xNDMwOTU2MjYwLDExNTc2
+Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Nyw5ODAzMjIyNC
+w0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MTEz
+MzYxXX0=
 -->
