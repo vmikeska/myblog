@@ -1,6 +1,6 @@
 Title: Create a programming blog without any database or CMS by a static site generator
 Description: Don't drag into the project dependencies you don't need. Create a programming blog without any database or CMS by a static site generator using Markdown and Wyam with free hosting on Github pages
-Published: 5/10/2018
+Published: 9/10/2019
 Image: title-if.jpg
 Tags: 
 - static site generator
@@ -15,7 +15,7 @@ Tags:
 ### Have just setup a blog...
 I spent most of my evenings in the last month setting up this blog. A programming blog is a bit a specific kind of blog and I'd like to share with you this fresh knowledge.
  
-When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and the next one start to work on the content right away.
+When I was querying the internet, the only articles which popped-up were these about Webhostings, Wordpress or similar CMS. I couldn't find any article how to setup my blog in one day and begin to work on the content right away.
 
 ### ...I'd like to share with you how to setup a blog technically
 The desired article I was seeking shouldn't have helped me with the content. The article should have helped me with the creation and technical setup.
@@ -42,14 +42,14 @@ Your blog should have a second level domain with HTTPS (like myblog.com), minima
 ## The options you have
 I see some possible directions you could go to create a blog about programming. 
 If you believe I found the best one, skip next several chapters and go to the **Static Site Generator**. 
-If you want to know a bit more about my journey, just keep reading continually.
+If you want to know a bit more about my journey, just keep reading all chapters.
 
 ### Popular CMS like Wordpress or GHost
-This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
+This is where my jurney initialy begun. Choice of one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
 
 Sounds good, but as I later found out,  these last 10% is not an easy piece.
 
-On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
+On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly pricier. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
 Altough at this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have any promissing Markdown plugins, on the Wordpress I found at least one.
 
@@ -58,7 +58,7 @@ Branded accouts are too expensive, but there can be found hosting providers on t
 Seemed like that could be it, houndreds of blog templates available, thousands of plug-ins. And after couple of clicks you can start to work on your content right away.
 
 As I already implied above, the last 10% of customization can result in a terrible pain. It multiplies if you are not a PHP guy :). 
-The biggest blocker out of all was the lack of good and working Markdown plugin. 
+The biggest blocker out of all this was after all the lack of good and working Markdown plugin. 
 
 Well, I found a one after all, not perfect, but a very good one. Some of the 3rd party sources it was referencing couldn't get along with my plans to run my website on HTTPS.
 On top of that, the development of this plug-in was discontinued.
@@ -80,7 +80,7 @@ From the development point of view could be all this achived quite easy, but dep
 
 If you chose to deploy your database and webserver into an own server, this is gonna be cheapest solution.
 You could end up on $100 a year or maybe even a bit less. But the mayor pitfall is the time you'll spend on the configuration and maintenance. 
-You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services are might not come back. Sometimes an update after couple of years cause incompatibility with your code and so on.
+You'll have to take care of all the security updates, sometimes is it all gonna go offline because your hosting provider restarts server and your services might not come back. Sometimes an update after couple of years cause incompatibility with your code and so on.
 
 More care-free solution would be to use cloud services. It's configuration-less and care-free. One DB service and one Web app do the trick, fast deployed and no care. But you are going to end up on something like $25 a month and this is really a lot for a blog.
 
@@ -92,12 +92,11 @@ I realized how much I'm trapped in the world of the enterprise software developm
 
 Jekyll, the platform I came across is the leader and most popular in the field. Looked very promissing, but have poor support on Windows, so I decided to chose a technology based on a platform which is much closer to my knowlede, the .NET.
 
-Wyam, the technology I used and the rest of article is going to be affected by it. 
+Wyam is the technology I used. The rest of article is going to be affected by it. 
 But even if you decide for any other Static site generator, the principal should be prety much the same.
 
 #### Markdown - the base of content
-There must happen two things with the content you write. It must be somehow written and it must be somehow rendered.
-The rendering at the end is going to be in HTML, there is not any other choise.
+There must happen two things with the content you write. It must be somehow written and it must be somehow rendered into the HTML.
 
 Beside using Markdown you could have two more choices:
 - **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the articles, when you later decide for resturcturing or redesing. It would be heavy going as well.
@@ -125,15 +124,15 @@ I personally use online editor [Stackedit](https://stackedit.io) which can direc
 When offline, I use [Visual Studio Code](https://code.visualstudio.com) IDE. 
 But you don't really have to stick to any of these, don't hesitate to make your own research in this field.
 
-todo: picture sturcture of this two repositories
-
 #### Setting up your repository on GitHub
+![picture not found](https://mikeska.tech/assets/images/articles/git-repos.png "The repositories layout description")
+
 Github is going to play significant role in your blog. It stores your .md content files. We are even going to deploy the entire project onto GitHub, more about that in the next step.
 
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
 #### Deploying to the GitHub pages for free
-Maybe you don't know, but there is a possiblity to host a static HTML page on the Github for free !!! Of course on a second level domain (like myblog.com).
+Maybe you didn't know, but there is a possiblity to host a static HTML page on the Github for free !!! Of course on a second level domain (like myblog.com).
 
 The content of the repository is exactly the content of your website. This way it hosts your static HTML files created by the Wyam build.
 
@@ -156,6 +155,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 | ALIAS | your-github-repository-name.github.io |
 | DNS | your-github-repository-name.github.io |
 
+Hope this helps. I'll most possibly keep this article updated.
 
 
 
@@ -164,14 +164,13 @@ I had myself a bit issues to make sense of the official documentation, so here i
 
 
 
-advantages
-you can just grab your content and migrate to another platform based on Markdown within hours
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xND
-MwOTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5
-OTY3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0Mz
-Y5MzYyMTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgw
-MywtNjcyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMz
-gyMDgzMDMsLTEzMzc4ODY1MDIsMTMwMTkzMjQwMiwxNzY2MjM4
-NTgxXX0=
+eyJoaXN0b3J5IjpbLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLT
+EyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2
+OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLT
+E0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3
+MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMT
+QzNjkzNjIxMiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4
+ODAzXX0=
 -->
