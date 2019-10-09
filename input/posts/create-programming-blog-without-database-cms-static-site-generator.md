@@ -42,7 +42,7 @@ Your blog should have a second level domain with HTTPS (like myblog.com), minima
 ## The options you have
 I see some possible directions you could go to create a blog about programming. 
 If you believe I found the best one, skip next several chapters and go to the **Static Site Generator**. 
-If you want to know a bit more about my journey, just keep reading continually.
+If you want to know a bit more about my journey, just keep reading all chapters.
 
 ### Popular CMS like Wordpress or GHost
 This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
@@ -168,7 +168,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjM2MTQ3NCwtMTUwNDM1NjkyMCw3Nj
+eyJoaXN0b3J5IjpbMjExNzA1MzQ3OSwtMTUwNDM1NjkyMCw3Nj
 M3NDQwNDIsLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xNDMwOTU2
 MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Ny
 w5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYy
