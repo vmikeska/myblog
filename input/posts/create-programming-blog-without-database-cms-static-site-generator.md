@@ -145,7 +145,7 @@ The complete setup guide is very well described in the article on the Github [Ge
 Well, no one could describe this process better than the Github itself. So the root article can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/). 
 You'll be most possibly setting an apex domain (like example.com). The article for this case can be found [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
-I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used:
+I had myself a bit issues to make sense of the official documentation, so here is the apex domain configuration values I used.
 
 | Record | Value |
 |--|--|
@@ -167,11 +167,11 @@ Hope this helps. I'll most possibly keep this article updated.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODkyMDM5NSwxMjgwNzA5MjA5LC03Nj
-E1NDc4MzMsLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLTEyMDM4
-Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2OTIwLD
-c2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5
-NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Nj
-c3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkz
-NjIxMl19
+eyJoaXN0b3J5IjpbLTE4NDg3MzUwNjMsMTI4MDcwOTIwOSwtNz
+YxNTQ3ODMzLC0xNjM5MTgwODMwLC0xMjkyNzE4ODA1LC0xMjAz
+ODI5NzUsODQ3MzU0MDQ2LDk2MTU4Mzc5MSwtMTUwNDM1NjkyMC
+w3NjM3NDQwNDIsLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xNDMw
+OTU2MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OT
+Y3Nyw5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5
+MzYyMTJdfQ==
 -->
