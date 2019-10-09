@@ -45,11 +45,11 @@ If you believe I found the best one, skip next several chapters and go to the **
 If you want to know a bit more about my journey, just keep reading all chapters.
 
 ### Popular CMS like Wordpress or GHost
-This is where my jurney initialy begun. Chose one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
+This is where my jurney initialy begun. Choice of one of the popular CMS seemed like the right way to go. You just register and begin with the content right away, no excessive development, deployment and configuration. Just couple of clicks and your blog is 90% ready.
 
 Sounds good, but as I later found out,  these last 10% is not an easy piece.
 
-On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly more pricy. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
+On top of that, I was surprised by the super-crazy pricing policy of these services. Wordpress.com costs around $400 a year, Ghost is even slighly pricier. So to create an account directly in a branded CMS was not a way due to the very high price for a non-profit blog.
 
 Altough at this point it was already clear that if to use any of the open source CMS, it would be Wordpress. Other CMS didn't have any promissing Markdown plugins, on the Wordpress I found at least one.
 
@@ -168,11 +168,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzA1MzQ3OSwtMTUwNDM1NjkyMCw3Nj
-M3NDQwNDIsLTE4NDgxODA4MywtMzIyOTIzNTU2LC0xNDMwOTU2
-MjYwLDExNTc2Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Ny
-w5ODAzMjIyNCw0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYy
-MTIsMTc0MTEzMzYxLDE5ODIyNTEwMDYsLTIwODg3ODgwMywtNj
-cyNjMwMzYzLDQ0MzA1ODAwOCwxOTU1MjcwOTQ5LDExMzgyMDgz
-MDNdfQ==
+eyJoaXN0b3J5IjpbOTYxNTgzNzkxLC0xNTA0MzU2OTIwLDc2Mz
+c0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5NTYy
+NjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LD
+k4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIx
+MiwxNzQxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02Nz
+I2MzAzNjMsNDQzMDU4MDA4LDE5NTUyNzA5NDksMTEzODIwODMw
+M119
 -->
