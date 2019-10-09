@@ -132,7 +132,7 @@ Github is going to play significant role in your blog. It stores your .md conten
 The solution to store the content files I chose, includes the binaries as well. It simplifies the setup on a new computer. You just download your entire repository into the computer and you can build your project right away with just a one console command. 
 
 #### Deploying to the GitHub pages for free
-Maybe you don't know, but there is a possiblity to host a static HTML page on the Github for free !!! Of course on a second level domain (like myblog.com).
+Maybe you didn't know, but there is a possiblity to host a static HTML page on the Github for free !!! Of course on a second level domain (like myblog.com).
 
 The content of the repository is exactly the content of your website. This way it hosts your static HTML files created by the Wyam build.
 
@@ -167,11 +167,11 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODgxNDI3NywtMTIwMzgyOTc1LDg0Nz
-M1NDA0Niw5NjE1ODM3OTEsLTE1MDQzNTY5MjAsNzYzNzQ0MDQy
-LC0xODQ4MTgwODMsLTMyMjkyMzU1NiwtMTQzMDk1NjI2MCwxMT
-U3Njc4NzQyLC05MTI1OTQ1NzMsLTIwODcwOTk2NzcsOTgwMzIy
-MjQsNDc3MDYzMDM1LDE0MDU2MDQ2MSwxNDM2OTM2MjEyLDE3ND
-ExMzM2MSwxOTgyMjUxMDA2LC0yMDg4Nzg4MDMsLTY3MjYzMDM2
-M119
+eyJoaXN0b3J5IjpbLTEyOTI3MTg4MDUsLTEyMDM4Mjk3NSw4ND
+czNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0
+MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMT
+E1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMy
+MjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkzNjIxMiwxNz
+QxMTMzNjEsMTk4MjI1MTAwNiwtMjA4ODc4ODAzLC02NzI2MzAz
+NjNdfQ==
 -->
