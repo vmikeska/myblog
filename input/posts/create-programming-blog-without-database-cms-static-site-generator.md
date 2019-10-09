@@ -92,7 +92,7 @@ I realized how much I'm trapped in the world of the enterprise software developm
 
 Jekyll, the platform I came across is the leader and most popular in the field. Looked very promissing, but have poor support on Windows, so I decided to chose a technology based on a platform which is much closer to my knowlede, the .NET.
 
-Wyam, the technology I used and the rest of article is going to be affected by it. 
+Wyam is the technology I used. The rest of article is going to be affected by it. 
 But even if you decide for any other Static site generator, the principal should be prety much the same.
 
 #### Markdown - the base of content
@@ -168,7 +168,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njc5MjY5NCw4NDczNTQwNDYsOTYxNT
+eyJoaXN0b3J5IjpbMTM1NzEzMzM1Myw4NDczNTQwNDYsOTYxNT
 gzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgz
 LC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOT
 EyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAz
