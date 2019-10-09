@@ -96,8 +96,7 @@ Wyam is the technology I used. The rest of article is going to be affected by it
 But even if you decide for any other Static site generator, the principal should be prety much the same.
 
 #### Markdown - the base of content
-There must happen two things with the content you write. It must be somehow written and it must be somehow rendered.
-The rendering at the end is going to be in HTML, there is not any other choise.
+There must happen two things with the content you write. It must be somehow written and it must be somehow rendered into the HTML.
 
 Beside using Markdown you could have two more choices:
 - **Write directly in HTML** - your HTML should have a good structure then, but then you are losing possiblity to make global changes to the articles, when you later decide for resturcturing or redesing. It would be heavy going as well.
@@ -168,7 +167,7 @@ I had myself a bit issues to make sense of the official documentation, so here i
 advantages
 you can just grab your content and migrate to another platform based on Markdown within hours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzEzMzM1Myw4NDczNTQwNDYsOTYxNT
+eyJoaXN0b3J5IjpbLTEyMDM4Mjk3NSw4NDczNTQwNDYsOTYxNT
 gzNzkxLC0xNTA0MzU2OTIwLDc2Mzc0NDA0MiwtMTg0ODE4MDgz
 LC0zMjI5MjM1NTYsLTE0MzA5NTYyNjAsMTE1NzY3ODc0MiwtOT
 EyNTk0NTczLC0yMDg3MDk5Njc3LDk4MDMyMjI0LDQ3NzA2MzAz
