@@ -37,7 +37,7 @@ Your blog should have a second level domain with HTTPS (like myblog.com), minima
 | maintenance | None at all|
 | backups | Without any effor|
 | hosting cost | Completly for free|
-| **cost over all** | Just your domain, $4 or less
+| **cost over all** | Just your domain, $4 or less |
 
 ## The options you have
 I see some possible directions you could go to create a blog about programming. 
@@ -167,11 +167,11 @@ Hope this helps. I'll most possibly keep this article updated.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDcwOTIwOSwtNzYxNTQ3ODMzLC0xNj
-M5MTgwODMwLC0xMjkyNzE4ODA1LC0xMjAzODI5NzUsODQ3MzU0
-MDQ2LDk2MTU4Mzc5MSwtMTUwNDM1NjkyMCw3NjM3NDQwNDIsLT
-E4NDgxODA4MywtMzIyOTIzNTU2LC0xNDMwOTU2MjYwLDExNTc2
-Nzg3NDIsLTkxMjU5NDU3MywtMjA4NzA5OTY3Nyw5ODAzMjIyNC
-w0NzcwNjMwMzUsMTQwNTYwNDYxLDE0MzY5MzYyMTIsMTc0MTEz
-MzYxXX0=
+eyJoaXN0b3J5IjpbLTMyODkyMDM5NSwxMjgwNzA5MjA5LC03Nj
+E1NDc4MzMsLTE2MzkxODA4MzAsLTEyOTI3MTg4MDUsLTEyMDM4
+Mjk3NSw4NDczNTQwNDYsOTYxNTgzNzkxLC0xNTA0MzU2OTIwLD
+c2Mzc0NDA0MiwtMTg0ODE4MDgzLC0zMjI5MjM1NTYsLTE0MzA5
+NTYyNjAsMTE1NzY3ODc0MiwtOTEyNTk0NTczLC0yMDg3MDk5Nj
+c3LDk4MDMyMjI0LDQ3NzA2MzAzNSwxNDA1NjA0NjEsMTQzNjkz
+NjIxMl19
 -->
