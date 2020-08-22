@@ -8,10 +8,10 @@ Suddenly there were no application able to perform without UT and it even begin 
 TDD, the test driven development became most buzzwordy of all of this and all the interviews usually turned to this topic at early beginnings.
 
 So this was enough of the history, let's begin with the scenarios where you might not need unit tests.
-To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, you 
+To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project, later in your project you will benefit from this dependency. You just have to find a right moment 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDAzODA2MCwyMDQ4MjQ5NDAwLDE2OT
-c4MDEyMDcsLTExOTE2NTI1NDQsNzU5NjI2ODI0LC0xMzU1ODYy
-NDkxLC0xODU4MjY4OTg2LC0yMzQ1NTUyMDYsLTcyNTEyMTA1LD
-Q5NzgxODgxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTcwODE4NDY4LDIwNDgyNDk0MDAsMTY5Nz
+gwMTIwNywtMTE5MTY1MjU0NCw3NTk2MjY4MjQsLTEzNTU4NjI0
+OTEsLTE4NTgyNjg5ODYsLTIzNDU1NTIwNiwtNzI1MTIxMDUsND
+k3ODE4ODEwLC0yMDg4NzQ2NjEyXX0=
 -->
