@@ -11,8 +11,9 @@ So this was enough of the history, let's begin with the scenarios where you migh
 To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project,  when written well, later in your project you will benefit from this dependency. You just have to find a right moment to start. 
 
 The right moment is definitelly not right at the beginning of the application, when architecture is shaping. You will we modifying your interfaces a lot, every day, maybe every hour. This is really not a good time for unit tests, every time you make a change to your code/interface, there is usually a need to change the unit tests as well. Sometimes they are needed, but definitely do just hi-level interfaces coverage, like Web API method or a root metods you are calling there. This is for you then basically the point where you execute and debug your code, it's not yet an UT.
+Later then, when the interfaces are stable and stability is actually the current topic, then yes, go and increase your coverage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY4Njc0MTEsNjQxMDAyNjExLC0xMj
+eyJoaXN0b3J5IjpbLTE0MzY1NDA0NjIsNjQxMDAyNjExLC0xMj
 A0NTIyOTYwLDk3MDgxODQ2OCwyMDQ4MjQ5NDAwLDE2OTc4MDEy
 MDcsLTExOTE2NTI1NDQsNzU5NjI2ODI0LC0xMzU1ODYyNDkxLC
 0xODU4MjY4OTg2LC0yMzQ1NTUyMDYsLTcyNTEyMTA1LDQ5Nzgx
