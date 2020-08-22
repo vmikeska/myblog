@@ -10,10 +10,11 @@ TDD, the test driven development became most buzzwordy of all of this and all th
 So this was enough of the history, let's begin with the scenarios where you might not need unit tests for.
 To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project,  when written well, later in your project you will benefit from this dependency. You just have to find a right moment to start. 
 
-The right moment is definitelly not right at the beginning of the application, when architecture is shaping. You will we modifying your interfaces a lot.  
+The right moment is definitelly not right at the beginning of the application, when architecture is shaping. You will we modifying your interfaces a lot, every day, maybe every hour. This is really not a good time for unit tests, every time you make a change to your code/interface, there is usually a need to change the unit tests as well. Sometimes  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ1MjI5NjAsOTcwODE4NDY4LDIwND
-gyNDk0MDAsMTY5NzgwMTIwNywtMTE5MTY1MjU0NCw3NTk2MjY4
-MjQsLTEzNTU4NjI0OTEsLTE4NTgyNjg5ODYsLTIzNDU1NTIwNi
-wtNzI1MTIxMDUsNDk3ODE4ODEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzMjMzNzI0NjUsLTEyMDQ1MjI5NjAsOT
+cwODE4NDY4LDIwNDgyNDk0MDAsMTY5NzgwMTIwNywtMTE5MTY1
+MjU0NCw3NTk2MjY4MjQsLTEzNTU4NjI0OTEsLTE4NTgyNjg5OD
+YsLTIzNDU1NTIwNiwtNzI1MTIxMDUsNDk3ODE4ODEwLC0yMDg4
+NzQ2NjEyXX0=
 -->
