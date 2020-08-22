@@ -5,9 +5,10 @@ Ehm, popular ? More than that actually... at around year 2010, it became real ob
 
 Suddenly there were no application able to perform without UT and it even begin to affect the architecture of the applications itself. 100% coverage buzzword were spreading across the industry. People began to cover not only interfaces, but for example each method separately. And this all, as we already know at this era, is wrong.
 
-TDD, the test driven development became most buzzwordy of all of this. 
+TDD, the test driven development became most buzzwordy of all of this and all the interviews usually s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2NTI1NDQsNzU5NjI2ODI0LC0xMz
-U1ODYyNDkxLC0xODU4MjY4OTg2LC0yMzQ1NTUyMDYsLTcyNTEy
-MTA1LDQ5NzgxODgxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTY5NzgwMTIwNywtMTE5MTY1MjU0NCw3NT
+k2MjY4MjQsLTEzNTU4NjI0OTEsLTE4NTgyNjg5ODYsLTIzNDU1
+NTIwNiwtNzI1MTIxMDUsNDk3ODE4ODEwLC0yMDg4NzQ2NjEyXX
+0=
 -->
