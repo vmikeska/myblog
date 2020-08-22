@@ -7,11 +7,12 @@ Suddenly there were no application able to perform without UT and it even begin 
 
 TDD, the test driven development became most buzzwordy of all of this and all the interviews usually turned to this topic at early beginnings.
 
-So this was enough of the history, let's begin with the scenarios where you might not need unit tests.
-To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project, later in your project you will benefit from this dependency. You just have to find a right moment 
+So this was enough of the history, let's begin with the scenarios where you might not need unit tests for.
+To have unit tests in your project, it's alwasy a big dependency and overhead. Yes, if it is a professional project,  when written well, later in your project you will benefit from this dependency. You just have to find a right moment to start. 
+The right moment is definitelly not right at the beginning of the application, when architecture is shaping.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwODE4NDY4LDIwNDgyNDk0MDAsMTY5Nz
-gwMTIwNywtMTE5MTY1MjU0NCw3NTk2MjY4MjQsLTEzNTU4NjI0
-OTEsLTE4NTgyNjg5ODYsLTIzNDU1NTIwNiwtNzI1MTIxMDUsND
-k3ODE4ODEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU1NDA1Mjg5Miw5NzA4MTg0NjgsMjA0OD
+I0OTQwMCwxNjk3ODAxMjA3LC0xMTkxNjUyNTQ0LDc1OTYyNjgy
+NCwtMTM1NTg2MjQ5MSwtMTg1ODI2ODk4NiwtMjM0NTU1MjA2LC
+03MjUxMjEwNSw0OTc4MTg4MTAsLTIwODg3NDY2MTJdfQ==
 -->
