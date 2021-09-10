@@ -42,3 +42,7 @@ h1 {
     width: 150px;
     float: left;
 }
+
+.flex-playground-iframe {
+    width: 100%;
+}
