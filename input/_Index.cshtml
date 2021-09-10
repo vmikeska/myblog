@@ -82,7 +82,7 @@
             </ul>
         }
 
-        @if(!Context.Bool(BlogKeys.IndexPaging))
+        @* @if(!Context.Bool(BlogKeys.IndexPaging))
         {
             <hr />
             <h5>Older Posts</h5>
@@ -102,7 +102,7 @@
                     </li>
                 </ul>
             }
-        }
+        } *@
 
         @Html.Partial("_Sidebar")
     </div> 

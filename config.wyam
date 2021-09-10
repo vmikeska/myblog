@@ -8,5 +8,6 @@ Settings[Keys.LinksUseHttps] = true;
 Settings[Keys.Host] = "mikeska.tech";
 Settings[BlogKeys.Title] = "Mike's programming and architecture blog";
 Settings[BlogKeys.Description] = "Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more";
+Settings[BlogKeys.IndexPageSize] = 100;
 
 // Add any pipeline customizations here
